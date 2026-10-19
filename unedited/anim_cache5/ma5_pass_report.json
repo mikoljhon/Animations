@@ -1,0 +1,1 @@
+{"remaining": {"foot.L": {"frames": 3, "worst_deg": 3.6}, "foot.R": {"frames": 15, "worst_deg": 4.2}}, "hand_err_cm": {"L": [174.0, 144], "R": [205.76, 218]}, "leg_follow": "{'ik_foot.L': 16.3, 'ik_foot.R': 3.1}"}

@@ -1,0 +1,28 @@
+00:02.891  blend            | Read blend: "C:\ai\unedited\fight_v01.blend"
+REST Relic_AI_Rig {'hips': (-0.0, 1.6, 1.02), 'neck': (-0.0, 1.55, 1.78), 'elbow_L': (-0.45, 1.5, 1.33), 'wrist_L': (-0.47, 1.61, 1.0), 'ankle_L': (-0.33, 1.47, 0.2)}
+REST KillDroid_Rig {'hips': (0.0, 22.0, 1.32), 'neck': (0.0, 22.0, 2.13), 'elbow_L': (0.83, 22.03, 1.49), 'wrist_L': (0.85, 21.94, 0.92), 'ankle_L': (0.29, 22.03, 0.21)}
+KD nums 1.3215999603271484 0.21279984712600708 0.2912026047706604 0.8511999845504761 0.91839998960495
+Relic nums 1.0199999809265137 0.19999974966049194 0.3349999189376831
+CLIP TRAVEL 2.8295923400570397 3.202815828186577 144 139
+WALK 112 283 313 478 ends at y 5.223544597625732
+KEYED UNTIL 596
+POLES KillDroid_Rig {'shin.L': (-60, 2.5), 'shin.R': (-120, 2.5), 'forearm.L': (60, 2.8), 'forearm.R': (120, 3.4)}
+KillDroid_Rig GUARD frames 596, frames where a joint had to be pulled back 566, worst pull-back 179 deg, joint turns slowed to a human speed 6 times
+  upperarm.R   pulled back on  85 frames, worst 179 deg
+  forearm.L    pulled back on 514 frames, worst 113 deg
+  foot.R       pulled back on 270 frames, worst 100 deg
+  thigh.L      pulled back on  43 frames, worst  34 deg
+  thigh.R      pulled back on  22 frames, worst  22 deg
+  upperarm.L   pulled back on 280 frames, worst  17 deg
+  foot.L       pulled back on 325 frames, worst   9 deg
+  forearm.R    pulled back on   3 frames, worst   4 deg
+POLES Relic_AI_Rig {'shin.L': (-75, 1.0), 'shin.R': (-105, 1.0), 'forearm.L': (60, 5.6), 'forearm.R': (120, 2.7)}
+Relic_AI_Rig GUARD frames 596, frames where a joint had to be pulled back 486, worst pull-back 21 deg, joint turns slowed to a human speed 0 times
+  upperarm.L   pulled back on 478 frames, worst  21 deg
+  foot.R       pulled back on   8 frames, worst   7 deg
+  forearm.R    pulled back on   1 frames, worst   2 deg
+Info: Saved as "fight_v02.blend"
+FIGHT ANIM SAVED
+Blender 5.2.0 LTS (hash fbe6228777e7 built 2026-07-14 01:35:40)
+
+Blender quit

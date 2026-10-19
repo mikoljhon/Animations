@@ -1,0 +1,21 @@
+00:02.157  blend            | Read blend: "C:\ai\unedited\killdroid_v02.blend"
+00:05.422  render           | Saved: 'C:\ai\unedited\renders\killdroid_v02_pose0.png'
+00:06.141  render           | Saved: 'C:\ai\unedited\renders\killdroid_v02_pose1.png'
+00:06.844  render           | Saved: 'C:\ai\unedited\renders\killdroid_v02_pose2.png'
+00:07.516  render           | Saved: 'C:\ai\unedited\renders\killdroid_v02_pose3.png'
+VERIFY bones: v01 32, v02 28, shared 26, missing [], worst head/tail offset 0.000000 m
+VERIFY v02 bones: root, pelvis, spine, chest, neck, head, clavicle.L, upperarm.L, forearm.L, hand.L, clavicle.R, upperarm.R, forearm.R, hand.R, claw1a.R, claw2a.R, thigh.L, shin.L, foot.L, toe.L, thigh.R, shin.R, foot.R, toe.R, ik_foot.L, ik_knee.L, ik_foot.R, ik_knee.R
+VERIFY Motion Assist: rig_map 23 joints, 144 parts (1 skinned, 143 on bones), mass model dict
+VERIFY pose guard              wrist err 0.000 m, ankle err 0.000 m, worst ram aim 0.00 deg, smallest ram overlap 0.061 m (AnkleL), worst rod poke-through 0.000 m
+RENDERED C:\ai\unedited\renders\killdroid_v02_pose0.png
+VERIFY pose wind-up            wrist err 0.000 m, ankle err 0.000 m, worst ram aim 0.00 deg, smallest ram overlap 0.030 m (WaistR), worst rod poke-through 0.000 m
+RENDERED C:\ai\unedited\renders\killdroid_v02_pose1.png
+VERIFY pose crouch             wrist err 0.095 m, ankle err 0.000 m, worst ram aim 0.00 deg, smallest ram overlap 0.026 m (AnkleL), worst rod poke-through 0.000 m
+RENDERED C:\ai\unedited\renders\killdroid_v02_pose2.png
+VERIFY pose strike, jaws open  wrist err 0.000 m, ankle err 0.069 m, worst ram aim 0.00 deg, smallest ram overlap 0.034 m (AnkleR), worst rod poke-through 0.000 m
+RENDERED C:\ai\unedited\renders\killdroid_v02_pose3.png
+VERIFY renders ['C:\\ai\\unedited\\renders\\killdroid_v02_pose0.png', 'C:\\ai\\unedited\\renders\\killdroid_v02_pose1.png', 'C:\\ai\\unedited\\renders\\killdroid_v02_pose2.png', 'C:\\ai\\unedited\\renders\\killdroid_v02_pose3.png']
+DONE verify A
+Blender 5.2.0 LTS (hash fbe6228777e7 built 2026-07-14 01:35:40)
+
+Blender quit

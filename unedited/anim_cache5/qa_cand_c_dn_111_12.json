@@ -1,0 +1,371 @@
+{
+ "fist_inside": [],
+ "fist_min_cm": null,
+ "fists_pushed": 0,
+ "knee_bend": {
+  "p95": 2.6369080809783805,
+  "max": 24.068471606742918
+ },
+ "elbow_bend": {
+  "p95": 0.26212660940053856,
+  "max": 0.4154804072118736
+ },
+ "anatomy_rig": [],
+ "anatomy_ref": [
+  [
+   85,
+   "Lknee",
+   101
+  ],
+  [
+   86,
+   "Lknee",
+   114
+  ],
+  [
+   87,
+   "Lknee",
+   121
+  ],
+  [
+   88,
+   "Lknee",
+   122
+  ],
+  [
+   89,
+   "Lknee",
+   126
+  ],
+  [
+   90,
+   "Lknee",
+   131
+  ],
+  [
+   91,
+   "Lknee",
+   135
+  ],
+  [
+   92,
+   "Lknee",
+   138
+  ]
+ ],
+ "anatomy_worst": {
+  "rig": 85.27911235394875,
+  "ref": 138.26458487807864
+ },
+ "torso_dir": {
+  "n": 267,
+  "p95": 6.343095040438254,
+  "max": 9.303095871282656
+ },
+ "skin_leaks": [],
+ "elbow_dir": {
+  "n": 177,
+  "mean": 0.008009542100597757,
+  "p95": 0.0,
+  "max": 1.1628111047775214
+ },
+ "knee_dir": {
+  "n": 177,
+  "mean": 8.974896133084748,
+  "p95": 36.87716599689334,
+  "max": 94.91412553681641
+ },
+ "hand_dir": {
+  "mean": 0.08455434841433807,
+  "p95": 0.0,
+  "max": 8.220604802936723
+ },
+ "hinge_backwards": [],
+ "speed_over": [],
+ "limit_excess": [],
+ "stretch_worst": 0,
+ "stretch_frames": [],
+ "floor_low_cm": 0.2,
+ "floor_frame": 86,
+ "worst_frames": {
+  "knee": [
+   [
+    63,
+    "L",
+    64
+   ],
+   [
+    84,
+    "L",
+    36
+   ],
+   [
+    85,
+    "L",
+    42
+   ],
+   [
+    86,
+    "L",
+    47
+   ],
+   [
+    87,
+    "L",
+    57
+   ],
+   [
+    88,
+    "L",
+    66
+   ],
+   [
+    89,
+    "L",
+    75
+   ],
+   [
+    90,
+    "L",
+    80
+   ],
+   [
+    91,
+    "L",
+    89
+   ],
+   [
+    92,
+    "L",
+    95
+   ]
+  ]
+ },
+ "frames": [
+  4,
+  92
+ ],
+ "clips": [
+  "c_dn_111_12"
+ ],
+ "hull_cuts": [
+  [
+   6,
+   "crusher",
+   38
+  ],
+  [
+   6,
+   "left fist",
+   151
+  ],
+  [
+   8,
+   "crusher",
+   34
+  ],
+  [
+   8,
+   "left fist",
+   98
+  ],
+  [
+   10,
+   "crusher",
+   41
+  ],
+  [
+   10,
+   "left fist",
+   92
+  ],
+  [
+   12,
+   "crusher",
+   83
+  ],
+  [
+   12,
+   "left fist",
+   65
+  ],
+  [
+   14,
+   "crusher",
+   89
+  ],
+  [
+   14,
+   "left fist",
+   44
+  ],
+  [
+   16,
+   "crusher",
+   56
+  ],
+  [
+   16,
+   "left fist",
+   24
+  ],
+  [
+   18,
+   "crusher",
+   42
+  ],
+  [
+   18,
+   "left fist",
+   18
+  ],
+  [
+   20,
+   "left fist",
+   14
+  ],
+  [
+   46,
+   "crusher",
+   29
+  ],
+  [
+   48,
+   "crusher",
+   33
+  ],
+  [
+   50,
+   "crusher",
+   12
+  ],
+  [
+   68,
+   "crusher",
+   10
+  ],
+  [
+   70,
+   "crusher",
+   32
+  ],
+  [
+   82,
+   "crusher",
+   8
+  ],
+  [
+   84,
+   "crusher",
+   20
+  ],
+  [
+   86,
+   "crusher",
+   30
+  ],
+  [
+   88,
+   "crusher",
+   32
+  ],
+  [
+   90,
+   "crusher",
+   30
+  ],
+  [
+   92,
+   "crusher",
+   30
+  ]
+ ],
+ "checks": [
+  [
+   "Relic: no elbow/knee ever points the impossible way (any frame)",
+   true,
+   "0 joint-frames, worst 85 deg off natural []"
+  ],
+  [
+   "the reference capture itself is anatomically possible",
+   false,
+   "8 joint-frames, worst 138 deg off natural [(85, 'Lknee', 101), (86, 'Lknee', 114), (87, 'Lknee', 121), (88, 'Lknee', 122)]"
+  ],
+  [
+   "fists never inside Relic's own body (any frame)",
+   true,
+   "0 fist-frames, closest None cm; 0 fist-frames moved out of his armour []"
+  ],
+  [
+   "the crusher and the fist never cut into its own hull (any frame)",
+   false,
+   "19 frames [(6, 'crusher', 38), (6, 'left fist', 151), (8, 'crusher', 34), (8, 'left fist', 98)]; 0 hand-frames moved out of the hull"
+  ],
+  [
+   "knees bend as much as the real knees (p95 / worst)",
+   true,
+   "3 / 24 deg (limit 10 / 25)"
+  ],
+  [
+   "elbows bend as much as the real elbows (p95 / worst)",
+   true,
+   "0 / 0 deg (limit 20 / 45)"
+  ],
+  [
+   "the body faces, twists and leans like the real one (p95 / worst)",
+   true,
+   "6 / 9 deg (limit 12 / 25)"
+  ],
+  [
+   "elbows point the way the real elbows did (p95 / worst)",
+   true,
+   "0 / 1 deg (limit 15 / 35)"
+  ],
+  [
+   "knees point the way the real knees did (p95 / worst)",
+   false,
+   "37 / 95 deg (limit 15 / 35)"
+  ],
+  [
+   "hands go where the real hands went (p95)",
+   true,
+   "0 deg (limit 12)"
+  ],
+  [
+   "no elbow or knee ever bends backwards",
+   true,
+   "0 frames"
+  ],
+  [
+   "no joint turns faster than a human joint can",
+   true,
+   "0 joint-frames"
+  ],
+  [
+   "every joint inside its range",
+   true,
+   "0 joint-frames over 3 deg"
+  ],
+  [
+   "no skin weight leaks between limbs (skin_rules.py)",
+   true,
+   "0 pieces []"
+  ],
+  [
+   "the mesh never stretches into a spike (edge >3x and >6 cm)",
+   true,
+   "worst 0 edges, frames [] (limit 0)"
+  ],
+  [
+   "no armour piece floats away from the body",
+   true,
+   "0 piece-frames []"
+  ],
+  [
+   "feet never sink into the floor",
+   true,
+   "0.2 cm at frame 86 (limit 1.5)"
+  ]
+ ],
+ "pass": false
+}

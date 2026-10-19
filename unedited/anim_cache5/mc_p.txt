@@ -1,0 +1,189 @@
+00:02.515  blend            | Read blend: "C:\ai\unedited\fight_v01.blend"
+POLES {'shin.L': (-75, 0.8), 'shin.R': (-105, 0.8), 'forearm.L': (60, 7.0), 'forearm.R': (120, 7.0)}
+PDBG 131 shoulderL (-0.38, 1.86, 1.56) wristL (-0.37, 1.73, 1.25) elbowL (-0.11, 1.69, 1.39) wrist-shoulder dist 0.33 elbow off-axis 0.28
+PDBG 132 shoulderL (-0.37, 1.85, 1.54) wristL (-0.36, 1.71, 1.25) elbowL (-0.08, 1.74, 1.36) wrist-shoulder dist 0.33 elbow off-axis 0.28
+PDBG 133 shoulderL (-0.36, 1.86, 1.53) wristL (-0.34, 1.69, 1.25) elbowL (-0.08, 1.82, 1.32) wrist-shoulder dist 0.32 elbow off-axis 0.28
+PDBG 134 shoulderL (-0.37, 1.91, 1.56) wristL (-0.36, 1.74, 1.27) elbowL (-0.14, 1.93, 1.28) wrist-shoulder dist 0.34 elbow off-axis 0.27
+BIGCLAMP frame 1 ['gap'] 46
+BIGCLAMP frame 2 ['gap'] 46
+BIGCLAMP frame 3 ['punch_144_20_a'] 46
+BIGCLAMP frame 4 ['punch_144_20_a'] 46
+BIGCLAMP frame 5 ['punch_144_20_a'] 46
+BIGCLAMP frame 6 ['punch_144_20_a'] 47
+BIGCLAMP frame 7 ['punch_144_20_a'] 47
+BIGCLAMP frame 8 ['punch_144_20_a'] 47
+BIGCLAMP frame 9 ['punch_144_20_a'] 48
+BIGCLAMP frame 10 ['punch_144_20_a'] 49
+BIGCLAMP frame 11 ['punch_144_20_a'] 49
+BIGCLAMP frame 12 ['punch_144_20_a'] 50
+BIGCLAMP frame 13 ['punch_144_20_a'] 51
+BIGCLAMP frame 14 ['punch_144_20_a'] 53
+BIGCLAMP frame 15 ['punch_144_20_a'] 54
+BIGCLAMP frame 16 ['punch_144_20_a'] 54
+BIGCLAMP frame 17 ['punch_144_20_a'] 55
+BIGCLAMP frame 18 ['punch_144_20_a'] 55
+BIGCLAMP frame 19 ['punch_144_20_a'] 56
+BIGCLAMP frame 20 ['punch_144_20_a'] 55
+BIGCLAMP frame 21 ['punch_144_20_a'] 52
+BIGCLAMP frame 22 ['punch_144_20_a'] 48
+BIGCLAMP frame 23 ['punch_144_20_a'] 46
+BIGCLAMP frame 24 ['punch_144_20_a'] 42
+BIGCLAMP frame 25 ['punch_144_20_a'] 41
+BIGCLAMP frame 26 ['punch_144_20_a'] 44
+BIGCLAMP frame 27 ['punch_144_20_a'] 45
+BIGCLAMP frame 28 ['punch_144_20_a'] 42
+BIGCLAMP frame 29 ['punch_144_20_a'] 51
+GDBG frame 30 foot.R excess 61 swing 71 deg twist 62 deg swing dir (a1 -0.25, a2 0.91) ranges (45, 50, 25, 25, -30, 30)
+BIGCLAMP frame 30 ['punch_144_20_a'] 61
+BIGCLAMP frame 31 ['punch_144_20_a'] 50
+BIGCLAMP frame 32 ['punch_144_20_a'] 45
+BIGCLAMP frame 33 ['punch_144_20_a'] 47
+BIGCLAMP frame 34 ['punch_144_20_a'] 47
+BIGCLAMP frame 35 ['punch_144_20_a'] 47
+BIGCLAMP frame 36 ['punch_144_20_a'] 45
+BIGCLAMP frame 37 ['punch_144_20_a'] 41
+BIGCLAMP frame 38 ['punch_144_20_a'] 36
+BIGCLAMP frame 39 ['punch_144_20_a'] 32
+BIGCLAMP frame 40 ['punch_144_20_a'] 30
+BIGCLAMP frame 41 ['punch_144_20_a'] 30
+BIGCLAMP frame 42 ['punch_144_20_a'] 32
+BIGCLAMP frame 43 ['punch_144_20_a'] 36
+BIGCLAMP frame 44 ['punch_144_20_a'] 42
+BIGCLAMP frame 45 ['punch_144_20_a'] 47
+BIGCLAMP frame 46 ['punch_144_20_a'] 48
+BIGCLAMP frame 47 ['punch_144_20_a'] 45
+BIGCLAMP frame 48 ['punch_144_20_a'] 40
+BIGCLAMP frame 49 ['punch_144_20_a'] 35
+BIGCLAMP frame 50 ['punch_144_20_a'] 29
+BIGCLAMP frame 51 ['punch_144_20_a'] 32
+BIGCLAMP frame 52 ['punch_144_20_a'] 34
+BIGCLAMP frame 53 ['punch_144_20_a'] 33
+BIGCLAMP frame 54 ['punch_144_20_a'] 30
+BIGCLAMP frame 55 ['punch_144_20_a'] 27
+BIGCLAMP frame 56 ['punch_144_20_a'] 34
+BIGCLAMP frame 57 ['punch_144_20_a'] 41
+BIGCLAMP frame 58 ['punch_144_20_a'] 44
+BIGCLAMP frame 59 ['punch_144_20_a'] 42
+BIGCLAMP frame 60 ['punch_144_20_a'] 37
+BIGCLAMP frame 61 ['punch_144_20_a'] 31
+BIGCLAMP frame 62 ['punch_144_20_a'] 33
+BIGCLAMP frame 63 ['punch_144_20_a'] 37
+BIGCLAMP frame 64 ['punch_144_20_a'] 39
+BIGCLAMP frame 65 ['punch_144_20_a'] 37
+BIGCLAMP frame 66 ['punch_144_20_a'] 37
+BIGCLAMP frame 67 ['gap'] 37
+BIGCLAMP frame 68 ['gap'] 36
+BIGCLAMP frame 69 ['gap'] 35
+BIGCLAMP frame 70 ['gap'] 33
+BIGCLAMP frame 71 ['gap'] 30
+BIGCLAMP frame 72 ['gap'] 27
+BIGCLAMP frame 82 ['punch_144_13_a'] 27
+BIGCLAMP frame 83 ['punch_144_13_a'] 38
+BIGCLAMP frame 84 ['punch_144_13_a'] 37
+BIGCLAMP frame 85 ['punch_144_13_a'] 39
+BIGCLAMP frame 86 ['punch_144_13_a'] 36
+BIGCLAMP frame 87 ['punch_144_13_a'] 29
+BIGCLAMP frame 112 ['punch_144_13_a'] 27
+BIGCLAMP frame 113 ['punch_144_13_a'] 27
+BIGCLAMP frame 129 ['punch_143_23_a'] 37
+WATCH 130 upperarm.L q (0.68, 0.7, -0.21, 0.03) twist raw -34 twist used 39 swing 89 swivel 32.0
+BIGCLAMP frame 130 ['punch_143_23_a'] 46
+WATCH 131 upperarm.L q (0.64, 0.71, -0.3, 0.07) twist raw -50 twist used 32 swing 91 swivel 32.0
+BIGCLAMP frame 131 ['punch_143_23_a'] 57
+WATCH 132 upperarm.L q (0.55, 0.73, -0.39, 0.12) twist raw -71 twist used 26 swing 95 swivel 32.0
+GDBG frame 132 upperarm.L excess 72 swing 95 deg twist -71 deg swing dir (a1 -0.86, a2 -0.50) ranges (135, 45, 100, 95, -90, 120.0)
+BIGCLAMP frame 132 ['punch_143_23_a'] 72
+WATCH 133 upperarm.L q (0.1, -0.39, 0.86, -0.3) twist raw 167 twist used 99 swing 59 swivel -8.0
+BIGCLAMP frame 133 ['punch_143_23_a'] 39
+WATCH 134 upperarm.L q (0.28, -0.24, 0.87, -0.32) twist raw 145 twist used 90 swing 47 swivel -8.0
+WATCH 135 upperarm.L q (0.4, -0.01, 0.84, -0.37) twist raw 129 twist used 90 swing 43 swivel -8.0
+BIGCLAMP frame 135 ['punch_143_23_a'] 29
+WATCH 136 upperarm.L q (0.37, 0.23, 0.75, -0.5) twist raw 127 twist used 91 swing 67 swivel -8.0
+BIGCLAMP frame 136 ['punch_143_23_a'] 38
+BIGCLAMP frame 137 ['punch_143_23_a'] 37
+BIGCLAMP frame 138 ['punch_143_23_a'] 38
+BIGCLAMP frame 139 ['punch_143_23_a'] 39
+BIGCLAMP frame 140 ['punch_143_23_a'] 39
+BIGCLAMP frame 141 ['punch_143_23_a'] 37
+BIGCLAMP frame 142 ['punch_143_23_a'] 32
+BIGCLAMP frame 143 ['punch_143_23_a'] 29
+BIGCLAMP frame 144 ['punch_143_23_a'] 29
+BIGCLAMP frame 145 ['punch_143_23_a'] 28
+BIGCLAMP frame 151 ['punch_143_23_a'] 29
+BIGCLAMP frame 152 ['punch_143_23_a'] 32
+BIGCLAMP frame 153 ['punch_143_23_a'] 32
+BIGCLAMP frame 154 ['punch_143_23_a'] 34
+BIGCLAMP frame 155 ['punch_143_23_a'] 35
+BIGCLAMP frame 156 ['punch_143_23_a'] 34
+BIGCLAMP frame 157 ['punch_143_23_a'] 32
+BIGCLAMP frame 158 ['punch_143_23_a'] 27
+BIGCLAMP frame 168 ['punch_143_23_a'] 33
+BIGCLAMP frame 169 ['punch_143_23_a'] 43
+BIGCLAMP frame 170 ['punch_143_23_a'] 45
+BIGCLAMP frame 171 ['punch_143_23_a'] 43
+BIGCLAMP frame 172 ['punch_143_23_a'] 43
+BIGCLAMP frame 173 ['punch_143_23_a'] 43
+BIGCLAMP frame 174 ['punch_143_23_a'] 43
+BIGCLAMP frame 175 ['punch_143_23_a'] 40
+BIGCLAMP frame 176 ['punch_143_23_a'] 39
+BIGCLAMP frame 177 ['punch_143_23_a'] 35
+BIGCLAMP frame 178 ['punch_143_23_a'] 31
+BIGCLAMP frame 179 ['punch_143_23_a'] 30
+BIGCLAMP frame 180 ['punch_143_23_a'] 30
+BIGCLAMP frame 181 ['gap'] 29
+BIGCLAMP frame 182 ['gap'] 27
+BIGCLAMP frame 198 ['punch_14_03_a'] 38
+BIGCLAMP frame 214 ['punch_14_03_a'] 25
+BIGCLAMP frame 215 ['punch_14_03_a'] 29
+BIGCLAMP frame 216 ['punch_14_03_a'] 27
+BIGCLAMP frame 230 ['punch_14_03_a'] 26
+BIGCLAMP frame 257 ['punch_13_17_a'] 25
+BIGCLAMP frame 266 ['punch_13_17_a'] 28
+BIGCLAMP frame 267 ['punch_13_17_a'] 33
+BIGCLAMP frame 268 ['punch_13_17_a'] 39
+BIGCLAMP frame 269 ['punch_13_17_a'] 45
+WATCH 270 upperarm.L q (0.71, 0.64, -0.27, 0.12) twist raw -42 twist used 30 swing 82 swivel 32.0
+BIGCLAMP frame 270 ['punch_13_17_a'] 53
+WATCH 271 upperarm.L q (0.66, 0.64, -0.36, 0.16) twist raw -58 twist used 20 swing 83 swivel 32.0
+GDBG frame 271 upperarm.L excess 64 swing 83 deg twist -58 deg swing dir (a1 -0.87, a2 -0.48) ranges (135, 45, 100, 95, -90, 120.0)
+BIGCLAMP frame 271 ['punch_13_17_a'] 64
+WATCH 272 upperarm.L q (0.05, 0.4, -0.79, 0.46) twist raw -173 twist used 116 swing 76 swivel -8.0
+WATCH 273 upperarm.L q (0.11, -0.28, 0.81, -0.51) twist raw 165 twist used 102 swing 71 swivel -8.0
+WATCH 274 upperarm.L q (0.28, -0.14, 0.81, -0.5) twist raw 142 twist used 90 swing 62 swivel -8.0
+WATCH 275 upperarm.L q (0.45, 0.01, 0.78, -0.45) twist raw 120 twist used 83 swing 53 swivel -8.0
+WATCH 276 upperarm.L q (0.58, 0.19, 0.69, -0.39) twist raw 100 twist used 78 swing 52 swivel -8.0
+BIGCLAMP frame 284 ['punch_13_17_a'] 27
+BIGCLAMP frame 285 ['punch_13_17_a'] 45
+BIGCLAMP frame 286 ['punch_13_17_a'] 50
+BIGCLAMP frame 287 ['punch_13_17_a'] 27
+BIGCLAMP frame 289 ['punch_13_17_a'] 35
+BIGCLAMP frame 290 ['punch_13_17_a'] 39
+BIGCLAMP frame 291 ['punch_13_17_a'] 33
+BIGCLAMP frame 292 ['punch_13_17_a'] 52
+BIGCLAMP frame 293 ['punch_13_17_a'] 60
+BIGCLAMP frame 294 ['punch_13_17_a'] 51
+BIGCLAMP frame 295 ['punch_13_17_a'] 46
+BIGCLAMP frame 316C:\ai\unedited\mc_test.py:77: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  m = bpy.data.materials.new(name); m.use_nodes = True
+ ['guard_76_04'] 26
+BIGCLAMP frame 317 ['guard_76_04'] 26
+BIGCLAMP frame 318 ['guard_76_04'] 26
+BIGCLAMP frame 319 ['guard_76_04'] 30
+BIGCLAMP frame 320 ['guard_76_04'] 36
+BIGCLAMP frame 321 ['guard_76_04'] 42
+BIGCLAMP frame 322 ['guard_76_04'] 48
+BIGCLAMP frame 323 ['guard_76_04'] 55
+GUARD frames 388, frames where a joint had to be pulled back 367, worst pull-back 72 deg, joint turns slowed to a human speed 22 times
+  upperarm.L   pulled back on  73 frames, worst  72 deg
+  foot.R       pulled back on 253 frames, worst  61 deg
+  foot.L       pulled back on 305 frames, worst  56 deg
+  upperarm.R   pulled back on  88 frames, worst  46 deg
+  forearm.R    pulled back on  66 frames, worst  15 deg
+  forearm.L    pulled back on  39 frames, worst   8 deg
+  thigh.L      pulled back on  28 frames, worst   6 deg
+  thigh.R      pulled back on  17 frames, worst   5 deg
+Info: Saved as "mc_test_relic_punch_144_20_a.blend"
+MC BAKED 388 {'punch_144_20_a': (4, 61, 30), 'punch_144_13_a': (75, 44, 22), 'punch_143_23_a': (129, 50, 25), 'punch_14_03_a': (189, 57, 28), 'punch_13_17_a': (256, 50, 25), 'guard_76_04': (316, 62, 31)}
+Blender 5.2.0 LTS (hash fbe6228777e7 built 2026-07-14 01:35:40)
+
+Blender quit

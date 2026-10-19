@@ -1,0 +1,135 @@
+{
+ "fist_inside": [],
+ "fist_min_cm": 15.5,
+ "fists_pushed": 0,
+ "knee_bend": {
+  "p95": 6.0055981900089455,
+  "max": 6.972065859452243
+ },
+ "elbow_bend": {
+  "p95": 0.14169295735083054,
+  "max": 0.16740110636783356
+ },
+ "anatomy_rig": [],
+ "anatomy_ref": [],
+ "anatomy_worst": {
+  "rig": 90.37862721092866,
+  "ref": 54.45065396902976
+ },
+ "torso_dir": {
+  "n": 165,
+  "p95": 7.043765258000276,
+  "max": 9.818484870578894
+ },
+ "skin_leaks": [],
+ "elbow_dir": {
+  "n": 110,
+  "mean": 1.082128567213004,
+  "p95": 3.0329323501619534,
+  "max": 30.957637752691447
+ },
+ "knee_dir": {
+  "n": 110,
+  "mean": 1.3852394604545173,
+  "p95": 4.684357389649719,
+  "max": 14.999950898541545
+ },
+ "hand_dir": {
+  "mean": 0.13832161575460356,
+  "p95": 1.5762912217218479,
+  "max": 2.7707159691305665
+ },
+ "hinge_backwards": [],
+ "speed_over": [],
+ "limit_excess": [],
+ "stretch_worst": 0,
+ "stretch_frames": [],
+ "floor_low_cm": -0.1,
+ "floor_frame": 53,
+ "worst_frames": {},
+ "frames": [
+  4,
+  58
+ ],
+ "clips": [
+  "kick_round_b"
+ ],
+ "checks": [
+  [
+   "Relic: no elbow/knee ever points the impossible way (any frame)",
+   true,
+   "0 joint-frames, worst 90 deg off natural []"
+  ],
+  [
+   "the reference capture itself is anatomically possible",
+   true,
+   "0 joint-frames, worst 54 deg off natural []"
+  ],
+  [
+   "fists never inside Relic's own body (any frame)",
+   true,
+   "0 fist-frames, closest 15.5 cm; 0 fist-frames moved out of his armour []"
+  ],
+  [
+   "knees bend as much as the real knees (p95 / worst)",
+   true,
+   "6 / 7 deg (limit 10 / 25)"
+  ],
+  [
+   "elbows bend as much as the real elbows (p95 / worst)",
+   true,
+   "0 / 0 deg (limit 20 / 45)"
+  ],
+  [
+   "the body faces, twists and leans like the real one (p95 / worst)",
+   true,
+   "7 / 10 deg (limit 12 / 25)"
+  ],
+  [
+   "elbows point the way the real elbows did (p95 / worst)",
+   true,
+   "3 / 31 deg (limit 15 / 35)"
+  ],
+  [
+   "knees point the way the real knees did (p95 / worst)",
+   true,
+   "5 / 15 deg (limit 15 / 35)"
+  ],
+  [
+   "hands go where the real hands went (p95)",
+   true,
+   "2 deg (limit 12)"
+  ],
+  [
+   "no elbow or knee ever bends backwards",
+   true,
+   "0 frames"
+  ],
+  [
+   "no joint turns faster than a human joint can",
+   true,
+   "0 joint-frames"
+  ],
+  [
+   "every joint inside its range",
+   true,
+   "0 joint-frames over 3 deg"
+  ],
+  [
+   "no skin weight leaks between limbs (skin_rules.py)",
+   true,
+   "0 pieces []"
+  ],
+  [
+   "the mesh never stretches into a spike (edge >3x and >6 cm)",
+   true,
+   "worst 0 edges, frames [] (limit 0)"
+  ],
+  [
+   "feet never sink into the floor",
+   true,
+   "-0.1 cm at frame 53 (limit 1.5)"
+  ]
+ ],
+ "pass": true
+}

@@ -1,0 +1,15 @@
+C:\ai\unedited\killdroid_build.py:356: DeprecationWarning: 'World.use_nodes' is expected to be removed in Blender 6.0
+  w.use_nodes = True
+C:\ai\unedited\killdroid_build.py:380: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  m.use_nodes = True
+00:04.079  render           | Saved: 'C:\ai\unedited\renders\killdroid_v01_0.png'
+00:04.375  render           | Saved: 'C:\ai\unedited\renders\killdroid_v01_1.png'
+00:04.672  render           | Saved: 'C:\ai\unedited\renders\killdroid_v01_2.png'
+00:04.954  render           | Saved: 'C:\ai\unedited\renders\killdroid_v01_3.png'
+BUILT {'body_verts': 4000, 'rigid_parts': 118, 'bones': 32}
+RENDERED ['C:\\ai\\unedited\\renders\\killdroid_v01_0.png', 'C:\\ai\\unedited\\renders\\killdroid_v01_1.png', 'C:\\ai\\unedited\\renders\\killdroid_v01_2.png', 'C:\\ai\\unedited\\renders\\killdroid_v01_3.png']
+Info: Saved as "killdroid_v01.blend"
+SAVED
+Blender 5.2.0 LTS (hash fbe6228777e7 built 2026-07-14 01:35:40)
+
+Blender quit

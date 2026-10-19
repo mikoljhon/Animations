@@ -1,0 +1,96 @@
+{
+ "beats": [
+  {
+   "label": "beat 1  crusher swing, low from the side (the miss)",
+   "clip": "kd_swing_14_02",
+   "start": 4,
+   "end": 116,
+   "slow": 2.0
+  },
+  {
+   "label": "beat 2  left fist (the hit)",
+   "clip": "kd_punch_L_02_05",
+   "start": 133,
+   "end": 203,
+   "slow": 1.6
+  },
+  {
+   "label": "beat 4  crusher grab and lift (the hold)",
+   "clip": "kd_lift_137_40",
+   "start": 222,
+   "end": 375,
+   "slow": 1.2
+  },
+  {
+   "label": "beat 5  the rail hits the turret: lamps die, jaws let go (the finish)",
+   "clip": "hold",
+   "start": 376,
+   "end": 471,
+   "slow": 1.0
+  }
+ ],
+ "strike": 80,
+ "grab": 270,
+ "rail_hit": 399,
+ "jaw_keys": [
+  [
+   4,
+   0.04
+  ],
+  [
+   10,
+   0.04
+  ],
+  [
+   68,
+   0.58
+  ],
+  [
+   81,
+   0.58
+  ],
+  [
+   85,
+   0.04
+  ],
+  [
+   122,
+   0.08
+  ],
+  [
+   222,
+   0.08
+  ],
+  [
+   228,
+   0.1
+  ],
+  [
+   260,
+   0.62
+  ],
+  [
+   270,
+   0.62
+  ],
+  [
+   274,
+   0.24
+  ],
+  [
+   401,
+   0.24
+  ],
+  [
+   425,
+   0.5
+  ]
+ ],
+ "lamps": {
+  "4": 360.0,
+  "400": 324.0,
+  "401": 360.0,
+  "471": 0.0
+ },
+ "who": "kd"
+}

@@ -1,0 +1,40 @@
+train 789315 poses, validation 20000 (subjects [5, 18, 61, 69, 106, 122, 135, 139, 141, 142, 143, 144]), 24 rigid bones
+parameters: 1677393
+about 18126 steps fit in 30 minutes
+{'step': 500, 'minutes': 0.8, 'loss': 0.00784, 'val_cm_6pts': 3.81}
+{'step': 1000, 'minutes': 1.7, 'loss': 0.00634, 'val_cm_6pts': 3.15}
+{'step': 1500, 'minutes': 2.5, 'loss': 0.00521, 'val_cm_6pts': 2.97}
+{'step': 2000, 'minutes': 3.3, 'loss': 0.00467, 'val_cm_6pts': 2.93}
+{'step': 2500, 'minutes': 4.2, 'loss': 0.00436, 'val_cm_6pts': 2.82}
+{'step': 3000, 'minutes': 5.0, 'loss': 0.00417, 'val_cm_6pts': 2.63}
+{'step': 3500, 'minutes': 5.8, 'loss': 0.00391, 'val_cm_6pts': 2.59}
+{'step': 4000, 'minutes': 6.7, 'loss': 0.00365, 'val_cm_6pts': 2.53}
+{'step': 4500, 'minutes': 7.5, 'loss': 0.00359, 'val_cm_6pts': 2.59}
+{'step': 5000, 'minutes': 8.4, 'loss': 0.00391, 'val_cm_6pts': 2.47}
+{'step': 5500, 'minutes': 9.2, 'loss': 0.00357, 'val_cm_6pts': 2.42}
+{'step': 6000, 'minutes': 10.0, 'loss': 0.00375, 'val_cm_6pts': 2.42}
+{'step': 6500, 'minutes': 10.8, 'loss': 0.00323, 'val_cm_6pts': 2.56}
+{'step': 7000, 'minutes': 11.6, 'loss': 0.0034, 'val_cm_6pts': 2.44}
+{'step': 7500, 'minutes': 12.4, 'loss': 0.00352, 'val_cm_6pts': 2.38}
+{'step': 8000, 'minutes': 13.3, 'loss': 0.00368, 'val_cm_6pts': 2.39}
+{'step': 8500, 'minutes': 14.2, 'loss': 0.0036, 'val_cm_6pts': 2.32}
+{'step': 9000, 'minutes': 15.1, 'loss': 0.00344, 'val_cm_6pts': 2.36}
+{'step': 9500, 'minutes': 15.9, 'loss': 0.00332, 'val_cm_6pts': 2.34}
+{'step': 10000, 'minutes': 16.8, 'loss': 0.00309, 'val_cm_6pts': 2.29}
+{'step': 10500, 'minutes': 17.8, 'loss': 0.003, 'val_cm_6pts': 2.31}
+{'step': 11000, 'minutes': 18.7, 'loss': 0.00297, 'val_cm_6pts': 2.28}
+{'step': 11500, 'minutes': 19.5, 'loss': 0.00286, 'val_cm_6pts': 2.25}
+{'step': 12000, 'minutes': 20.4, 'loss': 0.00297, 'val_cm_6pts': 2.27}
+{'step': 12500, 'minutes': 21.2, 'loss': 0.00288, 'val_cm_6pts': 2.24}
+{'step': 13000, 'minutes': 22.0, 'loss': 0.00286, 'val_cm_6pts': 2.21}
+{'step': 13500, 'minutes': 22.8, 'loss': 0.00275, 'val_cm_6pts': 2.2}
+{'step': 14000, 'minutes': 23.6, 'loss': 0.00352, 'val_cm_6pts': 2.17}
+{'step': 14500, 'minutes': 24.4, 'loss': 0.00268, 'val_cm_6pts': 2.17}
+{'step': 15000, 'minutes': 25.1, 'loss': 0.00267, 'val_cm_6pts': 2.15}
+{'step': 15500, 'minutes': 25.9, 'loss': 0.00258, 'val_cm_6pts': 2.15}
+{'step': 16000, 'minutes': 26.7, 'loss': 0.00285, 'val_cm_6pts': 2.13}
+{'step': 16500, 'minutes': 27.6, 'loss': 0.00275, 'val_cm_6pts': 2.13}
+{'step': 17000, 'minutes': 28.3, 'loss': 0.00279, 'val_cm_6pts': 2.13}
+{'step': 17500, 'minutes': 29.1, 'loss': 0.00246, 'val_cm_6pts': 2.13}
+{'step': 18000, 'minutes': 29.9, 'loss': 0.0027, 'val_cm_6pts': 2.12}
+done: {'steps': 18037, 'minutes': 30.0, 'train_poses': 789315, 'val_subjects': [5, 18, 61, 69, 106, 122, 135, 139, 141, 142, 143, 144], 'val_cm_6_points': 2.12, 'val_cm_10_points': 1.87, 'per_joint_cm_6_points': {'spine': 2.2, 'chest': 1.6, 'head': 1.5, 'eye_L': 4.4, 'eye_R': 4.3, 'clav_L': 0.6, 'shoulder_L': 1.2, 'elbow_L': 3.4, 'knuckle_L': 1.6, 'thumb_L': 2.0, 'clav_R': 0.6, 'shoulder_R': 1.1, 'elbow_R': 3.3, 'knuckle_R': 1.7, 'thumb_R': 2.1, 'hip_L': 0.5, 'knee_L': 2.4, 'toe_L': 3.7, 'hip_R': 0.5, 'knee_R': 2.3, 'toe_R': 3.3}}

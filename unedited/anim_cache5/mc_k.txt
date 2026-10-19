@@ -1,0 +1,226 @@
+00:02.750  blend            | Read blend: "C:\ai\unedited\fight_v01.blend"
+POLES {'shin.L': (-75, 0.9), 'shin.R': (-105, 0.8), 'forearm.L': (60, 7.0), 'forearm.R': (120, 7.2)}
+PDBG 131 shoulderL (-0.11, 2.14, 1.51) wristL (-0.2, 2.03, 1.2) elbowL (-0.29, 2.31, 1.26) wrist-shoulder dist 0.34 elbow off-axis 0.28
+PDBG 132 shoulderL (-0.13, 2.13, 1.52) wristL (-0.22, 2.02, 1.21) elbowL (-0.32, 2.29, 1.26) wrist-shoulder dist 0.34 elbow off-axis 0.28
+PDBG 133 shoulderL (-0.14, 2.13, 1.53) wristL (-0.23, 2.0, 1.23) elbowL (-0.34, 2.28, 1.27) wrist-shoulder dist 0.34 elbow off-axis 0.28
+PDBG 134 shoulderL (-0.15, 2.12, 1.54) wristL (-0.24, 2.0, 1.24) elbowL (-0.36, 2.27, 1.28) wrist-shoulder dist 0.34 elbow off-axis 0.28
+BIGCLAMP frame 1 ['gap'] 47
+BIGCLAMP frame 2 ['gap'] 40
+BIGCLAMP frame 3 ['kick_front_a'] 40
+BIGCLAMP frame 4 ['kick_front_a'] 40
+BIGCLAMP frame 5 ['kick_front_a'] 42
+BIGCLAMP frame 6 ['kick_front_a'] 46
+BIGCLAMP frame 7 ['kick_front_a'] 42
+BIGCLAMP frame 8 ['kick_front_a'] 46
+BIGCLAMP frame 9 ['kick_front_a'] 38
+BIGCLAMP frame 10 ['kick_front_a'] 35
+BIGCLAMP frame 11 ['kick_front_a'] 31
+BIGCLAMP frame 15 ['kick_front_a'] 33
+BIGCLAMP frame 16 ['kick_front_a'] 39
+BIGCLAMP frame 17 ['kick_front_a'] 40
+BIGCLAMP frame 18 ['kick_front_a'] 43
+BIGCLAMP frame 19 ['kick_front_a'] 45
+BIGCLAMP frame 20 ['kick_front_a'] 45
+BIGCLAMP frame 21 ['kick_front_a'] 42
+BIGCLAMP frame 22 ['kick_front_a'] 40
+BIGCLAMP frame 23 ['kick_front_a'] 39
+BIGCLAMP frame 24 ['kick_front_a'] 35
+BIGCLAMP frame 25 ['kick_front_a'] 32
+BIGCLAMP frame 26 ['kick_front_a'] 35
+BIGCLAMP frame 27 ['kick_front_a'] 43
+BIGCLAMP frame 28 ['kick_front_a'] 54
+BIGCLAMP frame 29 ['kick_front_a'] 60
+BIGCLAMP frame 30 ['kick_front_a'] 52
+BIGCLAMP frame 31 ['kick_front_a'] 39
+BIGCLAMP frame 32 ['kick_front_a'] 29
+BIGCLAMP frame 53 ['kick_front_b'] 34
+GDBG frame 54 upperarm.L excess 61 swing 46 deg twist -175 deg swing dir (a1 0.72, a2 0.09) ranges (135, 45, 100, 95, -90, 90.0)
+BIGCLAMP frame 54 ['kick_front_b'] 61
+SWJUMP armL from -40 to 20 excess before 86 after 0
+BIGCLAMP frame 74 ['kick_front_b'] 43
+BIGCLAMP frame 75 ['kick_front_b'] 35
+BIGCLAMP frame 76 ['kick_front_b'] 57
+BIGCLAMP frame 77 ['kick_front_b'] 50
+BIGCLAMP frame 78 ['kick_front_b'] 28
+BIGCLAMP frame 98 ['gap'] 26
+BIGCLAMP frame 99 ['gap'] 29
+BIGCLAMP frame 100 ['gap'] 30
+BIGCLAMP frame 101 ['gap'] 28
+BIGCLAMP frame 102 ['gap'] 30
+BIGCLAMP frame 103 ['kick_front_low'] 46
+BIGCLAMP frame 104 ['kick_front_low'] 58
+GDBG frame 105 upperarm.L excess 65 swing 78 deg twist -84 deg swing dir (a1 -0.81, a2 -0.55) ranges (135, 45, 100, 95, -90, 118.26038115919627)
+BIGCLAMP frame 105 ['kick_front_low'] 65
+BIGCLAMP frame 106 ['kick_front_low'] 49
+GDBG frame 107 upperarm.L excess 148 swing 49 deg twist 161 deg swing dir (a1 0.70, a2 -0.27) ranges (135, 45, 100, 95, -90, 90.0)
+BIGCLAMP frame 107 ['kick_front_low'] 148
+GDBG frame 108 upperarm.L excess 159 swing 49 deg twist 149 deg swing dir (a1 0.75, a2 -0.01) ranges (135, 45, 100, 95, -90, 90.0)
+BIGCLAMP frame 108 ['kick_front_low'] 159
+GDBG frame 109 upperarm.L excess 170 swing 53 deg twist 135 deg swing dir (a1 0.75, a2 0.28) ranges (135, 45, 100, 95, -90, 93.06918521091063)
+BIGCLAMP frame 109 ['kick_front_low'] 170
+BIGCLAMP frame 110 ['kick_front_low'] 36
+BIGCLAMP frame 111 ['kick_front_low'] 32
+BIGCLAMP frame 117 ['kick_front_low'] 27
+BIGCLAMP frame 118 ['kick_front_low'] 26
+BIGCLAMP frame 122 ['kick_front_low'] 28
+BIGCLAMP frame 123 ['kick_front_low'] 26
+BIGCLAMP frame 126 ['kick_front_low'] 27
+BIGCLAMP frame 127 ['kick_front_low'] 32
+BIGCLAMP frame 128 ['kick_front_low'] 35
+BIGCLAMP frame 129 ['kick_front_low'] 39
+WATCH 130 upperarm.L q (0.63, 0.4, 0.58, -0.32) twist raw 85 twist used 79 swing 62 swivel -20.0
+BIGCLAMP frame 130 ['kick_front_low'] 38
+WATCH 131 upperarm.L q (0.64, 0.41, 0.55, -0.33) twist raw 81 twist used 76 swing 64 swivel -20.0
+BIGCLAMP frame 131 ['kick_front_low'] 34
+WATCH 132 upperarm.L q (0.65, 0.42, 0.54, -0.33) twist raw 79 twist used 75 swing 65 swivel -20.0
+BIGCLAMP frame 132 ['kick_front_low'] 27
+WATCH 133 upperarm.L q (0.66, 0.43, 0.52, -0.33) twist raw 77 twist used 74 swing 65 swivel -20.0
+WATCH 134 upperarm.L q (0.68, 0.43, 0.5, -0.32) twist raw 73 twist used 72 swing 65 swivel -20.0
+WATCH 135 upperarm.L q (0.69, 0.44, 0.48, -0.3) twist raw 69 twist used 71 swing 65 swivel -20.0
+WATCH 136 upperarm.L q (0.71, 0.45, 0.45, -0.28) twist raw 65 twist used 70 swing 65 swivel -20.0
+BIGCLAMP frame 145 ['kick_front_low'] 25
+BIGCLAMP frame 146 ['kick_front_low'] 25
+BIGCLAMP frame 147 ['gap'] 25
+BIGCLAMP frame 148 ['gap'] 25
+BIGCLAMP frame 149 ['gap'] 25
+BIGCLAMP frame 150 ['gap'] 26
+BIGCLAMP frame 151 ['gap'] 27
+BIGCLAMP frame 152 ['gap'] 28
+BIGCLAMP frame 153 ['gap'] 45
+BIGCLAMP frame 154 ['kick_low_round'] 53
+BIGCLAMP frame 155 ['kick_low_round'] 55
+BIGCLAMP frame 156 ['kick_low_round'] 52
+BIGCLAMP frame 157 ['kick_low_round'] 33
+BIGCLAMP frame 158 ['kick_low_round'] 33
+BIGCLAMP frame 159 ['kick_low_round'] 32
+GDBG frame 163 upperarm.L excess 69 swing 102 deg twist -163 deg swing dir (a1 -0.88, a2 -0.42) ranges (135, 45, 100, 95, -90, 120.0)
+BIGCLAMP frame 163 ['kick_low_round'] 69
+GDBG frame 164 upperarm.L excess 78 swing 86 deg twist 179 deg swing dir (a1 -0.72, a2 -0.69) ranges (135, 45, 100, 95, -90, 120.0)
+BIGCLAMP frame 164 ['kick_low_round'] 78
+BIGCLAMP frame 170 ['kick_low_round'] 28
+BIGCLAMP frame 171 ['kick_low_round'] 33
+BIGCLAMP frame 172 ['kick_low_round'] 54
+BIGCLAMP frame 176 ['kick_low_round'] 26
+BIGCLAMP frame 177 ['kick_low_round'] 27
+BIGCLAMP frame 178 ['kick_low_round'] 26
+BIGCLAMP frame 184 ['kick_low_round'] 31
+BIGCLAMP frame 185 ['kick_low_round'] 41
+BIGCLAMP frame 186 ['kick_low_round'] 46
+BIGCLAMP frame 187 ['kick_low_round'] 59
+BIGCLAMP frame 188 ['kick_low_round'] 48
+BIGCLAMP frame 189 ['kick_low_round'] 54
+GDBG frame 190 upperarm.R excess 62 swing 91 deg twist 91 deg swing dir (a1 -0.92, a2 -0.38) ranges (135, 45, 100, 95, -90, 120.0)
+BIGCLAMP frame 190 ['kick_low_round'] 62
+GDBG frame 191 upperarm.R excess 61 swing 83 deg twist 90 deg swing dir (a1 -0.90, a2 -0.43) ranges (135, 45, 100, 95, -90, 120.0)
+BIGCLAMP frame 191 ['kick_low_round'] 61
+BIGCLAMP frame 192 ['kick_low_round'] 55
+BIGCLAMP frame 193 ['kick_low_round'] 50
+BIGCLAMP frame 194 ['kick_low_round'] 46
+BIGCLAMP frame 195 ['kick_low_round'] 48
+BIGCLAMP frame 196 ['kick_low_round'] 50
+BIGCLAMP frame 197 ['kick_low_round'] 50
+BIGCLAMP frame 198 ['kick_low_round'] 50
+BIGCLAMP frame 199 ['kick_low_round'] 42
+BIGCLAMP frame 200 ['kick_low_round'] 31
+BIGCLAMP frame 205 ['kick_low_round'] 33
+GDBG frame 207 foot.L excess 66 swing 84 deg twist -17 deg swing dir (a1 -0.89, a2 0.45) ranges (45, 50, 25, 25, -30, 30)
+BIGCLAMP frame 207 ['kick_low_round'] 66
+BIGCLAMP frame 208 ['kick_low_round'] 41
+BIGCLAMP frame 209 ['kick_low_round'] 34
+BIGCLAMP frame 210 ['kick_low_round'] 29
+BIGCLAMP frame 239 ['kick_round_b'] 29
+BIGCLAMP frame 240 ['kick_round_b'] 37
+BIGCLAMP frame 241 ['kick_round_b'] 46
+BIGCLAMP frame 242 ['kick_round_b'] 54
+GDBG frame 243 foot.R excess 61 swing 33 deg twist -80 deg swing dir (a1 0.04, a2 0.55) ranges (45, 50, 25, 25, -30, 30)
+BIGCLAMP frame 243 ['kick_round_b'] 61
+GDBG frame 244 foot.R excess 67 swing 36 deg twist -84 deg swing dir (a1 0.05, a2 0.59) ranges (45, 50, 25, 25, -30, 30)
+BIGCLAMP frame 244 ['kick_round_b'] 67
+GDBG frame 245 foot.R excess 71 swing 38 deg twist -88 deg swing dir (a1 0.04, a2 0.61) ranges (45, 50, 25, 25, -30, 30)
+BIGCLAMP frame 245 ['kick_round_b'] 71
+GDBG frame 246 foot.R excess 72 swing 35 deg twist -90 deg swing dir (a1 0.04, a2 0.58) ranges (45, 50, 25, 25, -30, 30)
+BIGCLAMP frame 246 ['kick_round_b'] 72
+GDBG frame 247 foot.R excess 67 swing 29 deg twist -88 deg swing dir (a1 0.02, a2 0.48) ranges (45, 50, 25, 25, -30, 30)
+BIGCLAMP frame 247 ['kick_round_b'] 67
+BIGCLAMP frame 248 ['kick_round_b'] 54
+BIGCLAMP frame 249 ['kick_round_b'] 32
+BIGCLAMP frame 253 ['kick_round_b'] 27
+BIGCLAMP frame 254 ['kick_round_b'] 28
+BIGCLAMP frame 255 ['kick_round_b'] 31
+BIGCLAMP frame 256 ['kick_round_b'] 32
+BIGCLAMP frame 257 ['kick_round_b'] 35
+GDBG frame 258 foot.RC:\ai\unedited\mc_test.py:77: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  m = bpy.data.materials.new(name); m.use_nodes = True
+ excess 66 swing 48 deg twist -73 deg swing dir (a1 -0.18, a2 0.72) ranges (45, 50, 25, 25, -30, 30)
+BIGCLAMP frame 258 ['kick_round_b'] 66
+GDBG frame 259 foot.R excess 91 swing 41 deg twist -108 deg swing dir (a1 0.19, a2 0.63) ranges (45, 50, 25, 25, -30, 30)
+BIGCLAMP frame 259 ['kick_round_b'] 91
+GDBG frame 260 foot.R excess 97 swing 45 deg twist -112 deg swing dir (a1 0.23, a2 0.66) ranges (45, 50, 25, 25, -30, 30)
+BIGCLAMP frame 260 ['kick_round_b'] 97
+GDBG frame 261 foot.R excess 96 swing 49 deg twist -109 deg swing dir (a1 0.17, a2 0.73) ranges (45, 50, 25, 25, -30, 30)
+BIGCLAMP frame 261 ['kick_round_b'] 96
+GDBG frame 262 foot.R excess 88 swing 45 deg twist -102 deg swing dir (a1 0.07, a2 0.70) ranges (45, 50, 25, 25, -30, 30)
+BIGCLAMP frame 262 ['kick_round_b'] 88
+GDBG frame 263 foot.R excess 71 swing 38 deg twist -88 deg swing dir (a1 -0.06, a2 0.61) ranges (45, 50, 25, 25, -30, 30)
+BIGCLAMP frame 263 ['kick_round_b'] 71
+BIGCLAMP frame 264 ['kick_round_b'] 50
+BIGCLAMP frame 265 ['kick_round_b'] 50
+BIGCLAMP frame 266 ['kick_round_b'] 53
+BIGCLAMP frame 267 ['kick_round_b'] 56
+BIGCLAMP frame 268 ['kick_round_b'] 59
+GDBG frame 269 foot.L excess 61 swing 79 deg twist 23 deg swing dir (a1 -0.87, a2 0.45) ranges (45, 50, 25, 25, -30, 30)
+BIGCLAMP frame 269 ['kick_round_b'] 61
+GDBG frame 270 foot.L excess 61 swing 80 deg twist 23 deg swing dir (a1 -0.88, a2 0.45) ranges (45, 50, 25, 25, -30, 30)
+WATCH 270 upperarm.L q (0.97, 0.12, 0.16, -0.1) twist raw 19 twist used 24 swing 18 swivel 28.0
+BIGCLAMP frame 270 ['kick_round_b'] 61
+GDBG frame 271 foot.L excess 60 swing 79 deg twist 24 deg swing dir (a1 -0.87, a2 0.45) ranges (45, 50, 25, 25, -30, 30)
+WATCH 271 upperarm.L q (0.98, 0.13, 0.1, -0.07) twist raw 12 twist used 19 swing 17 swivel 28.0
+BIGCLAMP frame 271 ['kick_round_b'] 60
+WATCH 272 upperarm.L q (0.99, 0.15, 0.0, -0.05) twist raw 0 twist used 11 swing 19 swivel 28.0
+BIGCLAMP frame 272 ['kick_round_b'] 57
+WATCH 273 upperarm.L q (0.98, 0.19, -0.1, -0.02) twist raw -11 twist used 3 swing 21 swivel 28.0
+BIGCLAMP frame 273 ['kick_round_b'] 52
+WATCH 274 upperarm.L q (0.97, 0.21, -0.15, 0.01) twist raw -18 twist used -1 swing 24 swivel 28.0
+BIGCLAMP frame 274 ['kick_round_b'] 50
+WATCH 275 upperarm.L q (0.96, 0.22, -0.16, 0.02) twist raw -19 twist used -0 swing 25 swivel 28.0
+BIGCLAMP frame 275 ['kick_round_b'] 49
+WATCH 276 upperarm.L q (0.96, 0.22, -0.16, 0.02) twist raw -19 twist used -0 swing 25 swivel 28.0
+BIGCLAMP frame 276 ['kick_round_b'] 49
+BIGCLAMP frame 277 ['gap'] 46
+BIGCLAMP frame 278 ['gap'] 39
+BIGCLAMP frame 279 ['gap'] 31
+BIGCLAMP frame 302 ['kick_round_c'] 34
+BIGCLAMP frame 303 ['kick_round_c'] 48
+GDBG frame 304 foot.R excess 61 swing 53 deg twist -62 deg swing dir (a1 -0.12, a2 0.79) ranges (45, 50, 25, 25, -30, 30)
+BIGCLAMP frame 304 ['kick_round_c'] 61
+GDBG frame 305 foot.R excess 71 swing 58 deg twist -71 deg swing dir (a1 -0.04, a2 0.85) ranges (45, 50, 25, 25, -30, 30)
+BIGCLAMP frame 305 ['kick_round_c'] 71
+GDBG frame 306 foot.R excess 69 swing 54 deg twist -73 deg swing dir (a1 0.01, a2 0.81) ranges (45, 50, 25, 25, -30, 30)
+BIGCLAMP frame 306 ['kick_round_c'] 69
+BIGCLAMP frame 307 ['kick_round_c'] 51
+BIGCLAMP frame 308 ['kick_round_c'] 32
+BIGCLAMP frame 309 ['kick_round_c'] 44
+BIGCLAMP frame 310 ['kick_round_c'] 55
+BIGCLAMP frame 311 ['kick_round_c'] 58
+BIGCLAMP frame 312 ['kick_round_c'] 55
+BIGCLAMP frame 313 ['kick_round_c'] 50
+BIGCLAMP frame 314 ['kick_round_c'] 44
+BIGCLAMP frame 315 ['kick_round_c'] 40
+BIGCLAMP frame 316 ['kick_round_c'] 35
+BIGCLAMP frame 317 ['kick_round_c'] 31
+BIGCLAMP frame 318 ['kick_round_c'] 29
+BIGCLAMP frame 319 ['kick_round_c'] 25
+GUARD frames 351, frames where a joint had to be pulled back 329, worst pull-back 170 deg, joint turns slowed to a human speed 24 times
+  upperarm.L   pulled back on  49 frames, worst 170 deg
+  foot.R       pulled back on 251 frames, worst  97 deg
+  foot.L       pulled back on 264 frames, worst  66 deg
+  upperarm.R   pulled back on 100 frames, worst  62 deg
+  thigh.R      pulled back on  47 frames, worst  57 deg
+  forearm.L    pulled back on   3 frames, worst  21 deg
+  forearm.R    pulled back on  32 frames, worst  17 deg
+  thigh.L      pulled back on  21 frames, worst   6 deg
+Info: Saved as "mc_test_relic_kick_front_a.blend"
+MC BAKED 351 {'kick_front_a': (4, 40, 20), 'kick_front_b': (54, 40, 20), 'kick_front_low': (104, 41, 20), 'kick_low_round': (155, 56, 28), 'kick_round_b': (221, 54, 27), 'kick_round_c': (285, 56, 28)}
+Blender 5.2.0 LTS (hash fbe6228777e7 built 2026-07-14 01:35:40)
+
+Blender quit

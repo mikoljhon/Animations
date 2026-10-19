@@ -1,0 +1,23 @@
+00:02.234  blend            | Read blend: "C:\ai\unedited\fight_v03.blend"
+C:\ai\unedited\pipe_test.py:32: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  m.use_nodes = True
+GUARD frames 420, frames where a joint had to be pulled back 155, worst pull-back 21 deg, joint turns slowed to a human speed 0 times
+  foot.L       pulled back on  87 frames, worst  21 deg
+  foot.R       pulled back on 103 frames, worst  16 deg
+  upperarm.L   pulled back on  11 frames, worst  14 deg
+  upperarm.R   pulled back on  19 frames, worst  10 deg
+QA PASS  (punch_144_20_a, punch_144_13_a, punch_143_23_a, punch_14_03_a, punch_13_17_a, guard_76_04, frames 4-378)
+  [ok] elbows point the way the real elbows did (p95 / worst)     0 / 8 deg (limit 15 / 35)
+  [ok] knees point the way the real knees did (p95 / worst)       4 / 6 deg (limit 15 / 35)
+  [ok] hands go where the real hands went (p95)                   6 deg (limit 12)
+  [ok] no elbow or knee ever bends backwards                      0 frames
+  [ok] no joint turns faster than a human joint can               0 joint-frames
+  [ok] every joint inside its range                               0 joint-frames over 3 deg
+  [ok] the mesh never tears or stretches at a joint               worst 0 stretched edges (limit 12)
+  [ok] feet never sink into the floor                             0.0 cm at frame 77 (limit 1.5)
+
+Info: Saved as "pipe_punches.blend"
+PIPE SAVED punches QA PASS
+Blender 5.2.0 LTS (hash fbe6228777e7 built 2026-07-14 01:35:40)
+
+Blender quit

@@ -1,0 +1,25 @@
+00:02.250  blend            | Read blend: "C:\ai\unedited\fight_v03.blend"
+C:\ai\unedited\pipe_test.py:32: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  m.use_nodes = True
+GDBG frame 36 foot.R excess 46 swing 91 twist 2 dir a1 -0.99 a2 0.13 ranges (35, 45, 25, 25, -30, 30)
+GUARD frames 57, frames where a joint had to be pulled back 48, worst pull-back 46 deg, joint turns slowed to a human speed 7 times
+  foot.R       pulled back on  32 frames, worst  46 deg
+  foot.L       pulled back on  16 frames, worst  32 deg
+  upperarm.R   pulled back on   9 frames, worst  28 deg
+  upperarm.L   pulled back on  13 frames, worst  27 deg
+  thigh.R      pulled back on   8 frames, worst   2 deg
+QA PASS  (kick_low_round, frames 4-60)
+  [ok] elbows point the way the real elbows did (p95 / worst)     7 / 13 deg (limit 15 / 35)
+  [ok] knees point the way the real knees did (p95 / worst)       8 / 13 deg (limit 15 / 35)
+  [ok] hands go where the real hands went (p95)                   11 deg (limit 12)
+  [ok] no elbow or knee ever bends backwards                      0 frames
+  [ok] no joint turns faster than a human joint can               0 joint-frames
+  [ok] every joint inside its range                               0 joint-frames over 3 deg
+  [ok] the mesh never tears or stretches at a joint               worst 5 stretched edges (limit 12)
+  [ok] feet never sink into the floor                             -0.7 cm at frame 44 (limit 1.5)
+
+Info: Saved as "pipe_one_kick_low_round.blend"
+PIPE SAVED one_kick_low_round QA PASS
+Blender 5.2.0 LTS (hash fbe6228777e7 built 2026-07-14 01:35:40)
+
+Blender quit

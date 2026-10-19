@@ -1,0 +1,30 @@
+00:02.422  blend            | Read blend: "C:\ai\unedited\fight_v06.blend"
+GDBG frame 137 foot.R excess 47 swing 92 twist 11 dir a1 -1.00 a2 0.06 ranges (35, 45, 25, 25, -30, 30)
+GUARD frames 324, frames where a joint had to be pulled back 147, worst pull-back 47 deg, joint turns slowed to a human speed 10 times
+  foot.R       pulled back on  83 frames, worst  47 deg
+  foot.L       pulled back on  74 frames, worst  31 deg
+  upperarm.L   pulled back on  16 frames, worst  26 deg
+  upperarm.R   pulled back on  21 frames, worst   3 deg
+  thigh.R      pulled back on  11 frames, worst   3 deg
+QA PASS  (kick_front_a, kick_front_low, kick_low_round, kick_round_b, kick_round_c, frames 4-291)
+  [ok] Relic: no elbow/knee ever points the impossible way (any frame) 0 joint-frames, worst 110 deg off natural []
+  [ok] the reference capture itself is anatomically possible      0 joint-frames, worst 87 deg off natural []
+  [ok] fists never inside Relic's own body (any frame)            0 fist-frames, closest 9.7 cm; 29 fist-frames moved out of his armour []
+  [ok] knees bend as much as the real knees (p95 / worst)         8 / 16 deg (limit 10 / 25)
+  [ok] elbows bend as much as the real elbows (p95 / worst)       3 / 16 deg (limit 20 / 45)
+  [ok] the body faces, twists and leans like the real one (p95 / worst) 7 / 12 deg (limit 12 / 25)
+  [ok] elbows point the way the real elbows did (p95 / worst)     7 / 31 deg (limit 15 / 35)
+  [ok] knees point the way the real knees did (p95 / worst)       5 / 15 deg (limit 15 / 35)
+  [ok] hands go where the real hands went (p95)                   2 deg (limit 12)
+  [ok] no elbow or knee ever bends backwards                      0 frames
+  [ok] no joint turns faster than a human joint can               0 joint-frames
+  [ok] every joint inside its range                               0 joint-frames over 3 deg
+  [ok] no skin weight leaks between limbs (skin_rules.py)         0 pieces []
+  [ok] the mesh never stretches into a spike (edge >3x and >6 cm) worst 0 edges, frames [] (limit 0)
+  [ok] feet never sink into the floor                             0.0 cm at frame 105 (limit 1.5)
+
+Info: Saved as "pipe_kicks8.blend"
+PIPE SAVED kicks8 QA PASS
+Blender 5.2.0 LTS (hash fbe6228777e7 built 2026-07-14 01:35:40)
+
+Blender quit

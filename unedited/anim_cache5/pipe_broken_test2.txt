@@ -1,0 +1,23 @@
+00:02.219  blend            | Read blend: "C:\ai\unedited\fight_v05.blend"
+Blender 5.2.0 LTS (hash fbe6228777e7 built 2026-07-14 01:35:40)
+GUARD frames 51, frames where a joint had to be pulled back 42, worst pull-back 13 deg, joint turns slowed to a human speed 11 times
+  foot.L       pulled back on  19 frames, worst  13 deg
+  foot.R       pulled back on  21 frames, worst  11 deg
+  upperarm.R   pulled back on   7 frames, worst   3 deg
+  upperarm.L   pulled back on   6 frames, worst   3 deg
+QA FAIL  (punch_143_23_a, frames 4-54)
+  [XX] Relic: no elbow/knee ever points the impossible way (any frame) 38 joint-frames, worst 177 deg off natural [(4, 'Lelbow', 111), (7, 'Lelbow', 113), (8, 'Lelbow', 121), (9, 'Lelbow', 118)]
+  [XX] the reference capture itself is anatomically possible      94 joint-frames, worst 180 deg off natural [(4, 'Lelbow', 179), (4, 'Relbow', 162), (5, 'Lelbow', 179), (5, 'Relbow', 163)]
+  [ok] the body faces, twists and leans like the real one (p95 / worst) 11 / 12 deg (limit 12 / 25)
+  [XX] elbows point the way the real elbows did (p95 / worst)     141 / 148 deg (limit 15 / 35)
+  [ok] knees point the way the real knees did (p95 / worst)       3 / 6 deg (limit 15 / 35)
+  [XX] hands go where the real hands went (p95)                   17 deg (limit 12)
+  [ok] no elbow or knee ever bends backwards                      0 frames
+  [ok] no joint turns faster than a human joint can               0 joint-frames
+  [ok] every joint inside its range                               0 joint-frames over 3 deg
+  [ok] no skin weight leaks between limbs (skin_rules.py)         0 pieces []
+  [ok] the mesh never stretches into a spike (edge >3x and >6 cm) worst 0 edges, frames [] (limit 0)
+  [ok] feet never sink into the floor                             -0.0 cm at frame 8 (limit 1.5)
+  worst elbow frames: [(4, 'L', 125), (4, 'R', 120), (5, 'L', 108), (5, 'R', 117), (6, 'L', 111), (6, 'R', 120), (7, 'L', 126), (7, 'R', 123)]
+
+PIPE QA ONLY brokentest2 QA FAIL

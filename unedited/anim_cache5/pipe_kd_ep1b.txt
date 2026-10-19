@@ -1,0 +1,29 @@
+00:01.985  blend            | Read blend: "C:\ai\unedited\fight_v08.blend"
+GUARD frames 394, frames where a joint had to be pulled back 335, worst pull-back 26 deg, joint turns slowed to a human speed 0 times
+  foot.L       pulled back on 285 frames, worst  26 deg
+  foot.R       pulled back on 304 frames, worst  23 deg
+LAMPS (frame: total spot energy) {4: 360.0, 400: 324.0, 401: 360.0, 471: 0.0} | strike 80 grab 270 rail hit 399
+QA PASS  (kd_swing_14_02, kd_punch_L_02_05, kd_lift_137_40, frames 4-471)
+  [ok] Relic: no elbow/knee ever points the impossible way (any frame) 0 joint-frames, worst 61 deg off natural []
+  [ok] the reference capture itself is anatomically possible      0 joint-frames, worst 66 deg off natural []
+  [ok] fists never inside Relic's own body (any frame)            0 fist-frames, closest None cm; 255 fist-frames moved out of his armour []
+  [ok] the crusher and the fist never cut into its own hull (any frame) 0 frames []; 255 hand-frames moved out of the hull
+  [ok] knees bend as much as the real knees (p95 / worst)         3 / 6 deg (limit 10 / 25)
+  [ok] elbows bend as much as the real elbows (p95 / worst)       17 / 29 deg (limit 20 / 45)
+  [ok] the body faces, twists and leans like the real one (p95 / worst) 8 / 10 deg (limit 12 / 25)
+  [ok] elbows point the way the real elbows did (p95 / worst)     0 / 0 deg (limit 15 / 35)
+  [ok] knees point the way the real knees did (p95 / worst)       4 / 8 deg (limit 15 / 35)
+  [ok] hands go where the real hands went (p95)                   0 deg (limit 12)
+  [ok] no elbow or knee ever bends backwards                      0 frames
+  [ok] no joint turns faster than a human joint can               0 joint-frames
+  [ok] every joint inside its range                               0 joint-frames over 3 deg
+  [ok] no skin weight leaks between limbs (skin_rules.py)         0 pieces []
+  [ok] the mesh never stretches into a spike (edge >3x and >6 cm) worst 0 edges, frames [] (limit 0)
+  [ok] no armour piece floats away from the body                  0 piece-frames []
+  [ok] feet never sink into the floor                             0.0 cm at frame 76 (limit 1.5)
+
+Info: Saved as "pipe_kd_ep1b.blend"
+PIPE SAVED kd_ep1b QA PASS frames 4 471
+Blender 5.2.0 LTS (hash fbe6228777e7 built 2026-07-14 01:35:40)
+
+Blender quit

@@ -1,0 +1,27 @@
+00:02.063  blend            | Read blend: "C:\ai\unedited\fight_v08.blend"
+Blender 5.2.0 LTS (hash fbe6228777e7 built 2026-07-14 01:35:40)
+GUARD frames 53, frames where a joint had to be pulled back 49, worst pull-back 25 deg, joint turns slowed to a human speed 4 times
+  foot.L       pulled back on  21 frames, worst  25 deg
+  foot.R       pulled back on  49 frames, worst  14 deg
+  upperarm.R   pulled back on   4 frames, worst   3 deg
+QA FAIL  (kd_swing_14_01, frames 4-56)
+  [ok] Relic: no elbow/knee ever points the impossible way (any frame) 0 joint-frames, worst 87 deg off natural []
+  [ok] the reference capture itself is anatomically possible      0 joint-frames, worst 73 deg off natural []
+  [ok] fists never inside Relic's own body (any frame)            0 fist-frames, closest None cm; 87 fist-frames moved out of his armour []
+  [XX] the crusher and the fist never cut into its own hull (any frame) 1 frames [(36, 'crusher', 418)]; 87 hand-frames moved out of the hull
+  [ok] knees bend as much as the real knees (p95 / worst)         2 / 3 deg (limit 10 / 25)
+  [XX] elbows bend as much as the real elbows (p95 / worst)       19 / 95 deg (limit 20 / 45)
+  [ok] the body faces, twists and leans like the real one (p95 / worst) 3 / 5 deg (limit 12 / 25)
+  [ok] elbows point the way the real elbows did (p95 / worst)     0 / 3 deg (limit 15 / 35)
+  [ok] knees point the way the real knees did (p95 / worst)       1 / 1 deg (limit 15 / 35)
+  [ok] hands go where the real hands went (p95)                   0 deg (limit 12)
+  [ok] no elbow or knee ever bends backwards                      0 frames
+  [ok] no joint turns faster than a human joint can               0 joint-frames
+  [ok] every joint inside its range                               0 joint-frames over 3 deg
+  [ok] no skin weight leaks between limbs (skin_rules.py)         0 pieces []
+  [ok] the mesh never stretches into a spike (edge >3x and >6 cm) worst 0 edges, frames [] (limit 0)
+  [ok] no armour piece floats away from the body                  0 piece-frames []
+  [ok] feet never sink into the floor                             -0.1 cm at frame 29 (limit 1.5)
+  worst elbow bend frames: [(36, 'R', 85), (37, 'R', 91), (38, 'R', 95), (39, 'R', 55)]
+
+PIPE QA ONLY one_kd_kd_swing_14_01 QA FAIL

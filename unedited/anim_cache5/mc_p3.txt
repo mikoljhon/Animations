@@ -1,0 +1,109 @@
+00:02.235  blend            | Read blend: "C:\ai\unedited\fight_v03.blend"
+C:\ai\unedited\mc_test.py:78: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  m = bpy.data.materials.new(name); m.use_nodes = True
+POLES {'shin.L': (-75, 0.8), 'shin.R': (-105, 0.8), 'forearm.L': (60, 7.0), 'forearm.R': (120, 6.5)}
+BIGCLAMP frame 1 ['gap'] 36
+BIGCLAMP frame 2 ['gap'] 36
+BIGCLAMP frame 3 ['punch_144_20_a'] 36
+WATCH 4 foot.R q (0.8, 0.05, 0.42, 0.42) twist raw 56 twist used 30 swing 50 swivel 0.0 legR swivel 0.0 ranges (35, 45, 25, 25, -30, 30)
+BIGCLAMP frame 4 ['punch_144_20_a'] 36
+WATCH 5 foot.R q (0.82, 0.05, 0.41, 0.4) twist raw 54 twist used 30 swing 47 swivel 0.0 legR swivel 0.0 ranges (35, 45, 25, 25, -30, 30)
+BIGCLAMP frame 5 ['punch_144_20_a'] 36
+WATCH 6 foot.R q (0.84, 0.04, 0.4, 0.37) twist raw 51 twist used 30 swing 44 swivel 0.0 legR swivel 0.0 ranges (35, 45, 25, 25, -30, 30)
+BIGCLAMP frame 6 ['punch_144_20_a'] 36
+WATCH 7 foot.R q (0.84, 0.02, 0.39, 0.37) twist raw 50 twist used 30 swing 43 swivel 0.0 legR swivel 0.0 ranges (35, 45, 25, 25, -30, 30)
+BIGCLAMP frame 7 ['punch_144_20_a'] 36
+WATCH 8 foot.R q (0.84, 0.01, 0.39, 0.37) twist raw 50 twist used 30 swing 44 swivel 0.0 legR swivel 0.0 ranges (35, 45, 25, 25, -30, 30)
+BIGCLAMP frame 8 ['punch_144_20_a'] 36
+WATCH 9 foot.R q (0.84, 0.01, 0.4, 0.38) twist raw 51 twist used 30 swing 44 swivel 0.0 legR swivel 0.0 ranges (35, 45, 25, 25, -30, 30)
+BIGCLAMP frame 9 ['punch_144_20_a'] 37
+WATCH 10 foot.R q (0.83, 0.01, 0.41, 0.37) twist raw 52 twist used 30 swing 44 swivel 0.0 legR swivel 0.0 ranges (35, 45, 25, 25, -30, 30)
+BIGCLAMP frame 10 ['punch_144_20_a'] 37
+WATCH 11 foot.R q (0.87, 0.01, 0.36, 0.33) twist raw 45 twist used 30 swing 39 swivel 0.0 legR swivel 8.0 ranges (35, 45, 25, 25, -30, 30)
+BIGCLAMP frame 11 ['punch_144_20_a'] 38
+BIGCLAMP frame 12 ['punch_144_20_a'] 38
+BIGCLAMP frame 13 ['punch_144_20_a'] 40
+BIGCLAMP frame 14 ['punch_144_20_a'] 41
+BIGCLAMP frame 15 ['punch_144_20_a'] 42
+BIGCLAMP frame 16 ['punch_144_20_a'] 43
+BIGCLAMP frame 17 ['punch_144_20_a'] 44
+BIGCLAMP frame 18 ['punch_144_20_a'] 45
+BIGCLAMP frame 19 ['punch_144_20_a'] 45
+BIGCLAMP frame 20 ['punch_144_20_a'] 44
+BIGCLAMP frame 21 ['punch_144_20_a'] 41
+BIGCLAMP frame 22 ['punch_144_20_a'] 33
+BIGCLAMP frame 23 ['punch_144_20_a'] 30
+BIGCLAMP frame 24 ['punch_144_20_a'] 27
+BIGCLAMP frame 25 ['punch_144_20_a'] 32
+BIGCLAMP frame 26 ['punch_144_20_a'] 35
+BIGCLAMP frame 27 ['punch_144_20_a'] 36
+BIGCLAMP frame 28 ['punch_144_20_a'] 33
+BIGCLAMP frame 29 ['punch_144_20_a'] 36
+BIGCLAMP frame 30 ['punch_144_20_a'] 46
+BIGCLAMP frame 31 ['punch_144_20_a'] 43
+BIGCLAMP frame 32 ['punch_144_20_a'] 38
+BIGCLAMP frame 33 ['punch_144_20_a'] 32
+BIGCLAMP frame 34 ['punch_144_20_a'] 32
+BIGCLAMP frame 35 ['punch_144_20_a'] 31
+BIGCLAMP frame 36 ['punch_144_20_a'] 29
+BIGCLAMP frame 37 ['punch_144_20_a'] 25
+BIGCLAMP frame 40 ['punch_144_20_a'] 26
+BIGCLAMP frame 41 ['punch_144_20_a'] 25
+BIGCLAMP frame 44 ['punch_144_20_a'] 27
+BIGCLAMP frame 45 ['punch_144_20_a'] 33
+BIGCLAMP frame 46 ['punch_144_20_a'] 34
+BIGCLAMP frame 47 ['punch_144_20_a'] 30
+BIGCLAMP frame 48 ['punch_144_20_a'] 25
+BIGCLAMP frame 51 ['punch_144_20_a'] 26
+BIGCLAMP frame 52 ['punch_144_20_a'] 29
+BIGCLAMP frame 53 ['punch_144_20_a'] 28
+BIGCLAMP frame 57 ['punch_144_20_a'] 27
+BIGCLAMP frame 58 ['punch_144_20_a'] 30
+BIGCLAMP frame 59 ['punch_144_20_a'] 28
+BIGCLAMP frame 62 ['punch_144_20_a'] 27
+BIGCLAMP frame 63 ['punch_144_20_a'] 31
+BIGCLAMP frame 64 ['punch_144_20_a'] 33
+BIGCLAMP frame 65 ['punch_144_20_a'] 32
+BIGCLAMP frame 66 ['punch_144_20_a'] 32
+BIGCLAMP frame 67 ['gap'] 32
+BIGCLAMP frame 68 ['gap'] 32
+BIGCLAMP frame 69 ['gap'] 31
+BIGCLAMP frame 70 ['gap'] 29
+BIGCLAMP frame 71 ['gap'] 26
+BIGCLAMP frame 135 ['punch_143_23_a'] 26
+BIGCLAMP frame 136 ['punch_143_23_a'] 35
+BIGCLAMP frame 137 ['punch_143_23_a'] 34
+BIGCLAMP frame 138 ['punch_143_23_a'] 34
+BIGCLAMP frame 139 ['punch_143_23_a'] 36
+BIGCLAMP frame 140 ['punch_143_23_a'] 36
+BIGCLAMP frame 141 ['punch_143_23_a'] 33
+BIGCLAMP frame 142 ['punch_143_23_a'] 28
+BIGCLAMP frame 167 ['punch_143_23_a'] 25
+BIGCLAMP frame 168 ['punch_143_23_a'] 34
+BIGCLAMP frame 169 ['punch_143_23_a'] 44
+BIGCLAMP frame 170 ['punch_143_23_a'] 45
+BIGCLAMP frame 171 ['punch_143_23_a'] 43
+BIGCLAMP frame 172 ['punch_143_23_a'] 42
+BIGCLAMP frame 173 ['punch_143_23_a'] 42
+BIGCLAMP frame 174 ['punch_143_23_a'] 41
+BIGCLAMP frame 175 ['punch_143_23_a'] 38
+BIGCLAMP frame 176 ['punch_143_23_a'] 36
+BIGCLAMP frame 177 ['punch_143_23_a'] 32
+BIGCLAMP frame 178 ['punch_143_23_a'] 27
+BIGCLAMP frame 179 ['punch_143_23_a'] 27
+BIGCLAMP frame 180 ['punch_143_23_a'] 26
+BIGCLAMP frame 181 ['gap'] 25
+GUARD frames 388, frames where a joint had to be pulled back 359, worst pull-back 46 deg, joint turns slowed to a human speed 13 times
+  foot.R       pulled back on 121 frames, worst  46 deg
+  foot.L       pulled back on 259 frames, worst  45 deg
+  upperarm.R   pulled back on 100 frames, worst  27 deg
+  upperarm.L   pulled back on  66 frames, worst  25 deg
+  forearm.R    pulled back on 109 frames, worst  19 deg
+  forearm.L    pulled back on  83 frames, worst  13 deg
+  thigh.L      pulled back on  35 frames, worst   6 deg
+  thigh.R      pulled back on  12 frames, worst   3 deg
+Info: Saved as "mc_test_relic_punch_144_20_a.blend"
+MC BAKED 388 {'punch_144_20_a': (4, 61, 30), 'punch_144_13_a': (75, 44, 22), 'punch_143_23_a': (129, 50, 25), 'punch_14_03_a': (189, 57, 28), 'punch_13_17_a': (256, 50, 25), 'guard_76_04': (316, 62, 31)}
+Blender 5.2.0 LTS (hash fbe6228777e7 built 2026-07-14 01:35:40)
+
+Blender quit

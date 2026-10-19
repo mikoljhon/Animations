@@ -1,0 +1,35 @@
+00:02.265  blend            | Read blend: "C:\ai\unedited\pipe_punches6.blend"
+ARM f110 clip  | L hand fwd  0.25 (real  0.24) elbow fwd  0.24 (real  0.72) elbow up -0.92 bend 150 | R hand fwd  0.33 (real  0.33) elbow fwd  0.55 (real  0.83) elbow up -0.76 bend 139
+ARM f111 clip  | L hand fwd  0.25 (real  0.25) elbow fwd  0.27 (real  0.71) elbow up -0.91 bend 150 | R hand fwd  0.48 (real  0.49) elbow fwd  0.76 (real  0.88) elbow up -0.53 bend 116
+ARM f112 clip  | L hand fwd  0.26 (real  0.26) elbow fwd  0.30 (real  0.71) elbow up -0.90 bend 148 | R hand fwd  0.67 (real  0.68) elbow fwd  0.87 (real  0.91) elbow up -0.31 bend  86
+ARM f113 clip  | L hand fwd  0.26 (real  0.26) elbow fwd  0.32 (real  0.72) elbow up -0.89 bend 148 | R hand fwd  0.72 (real  0.73) elbow fwd  0.89 (real  0.90) elbow up -0.26 bend  74
+ARM f114 clip  | L hand fwd  0.25 (real  0.25) elbow fwd  0.29 (real  0.72) elbow up -0.89 bend 149 | R hand fwd  0.64 (real  0.64) elbow fwd  0.85 (real  0.89) elbow up -0.38 bend  90
+ARM f115 clip  | L hand fwd  0.25 (real  0.24) elbow fwd  0.23 (real  0.72) elbow up -0.90 bend 150 | R hand fwd  0.49 (real  0.49) elbow fwd  0.76 (real  0.87) elbow up -0.58 bend 114
+ARM f116 clip  | L hand fwd  0.26 (real  0.24) elbow fwd  0.19 (real  0.72) elbow up -0.91 bend 150 | R hand fwd  0.35 (real  0.35) elbow fwd  0.56 (real  0.83) elbow up -0.79 bend 136
+ARM f117 clip  | L hand fwd  0.26 (real  0.24) elbow fwd  0.15 (real  0.72) elbow up -0.92 bend 150 | R hand fwd  0.26 (real  0.25) elbow fwd  0.29 (real  0.78) elbow up -0.92 bend 150
+ARM f118 clip  | L hand fwd  0.27 (real  0.23) elbow fwd  0.13 (real  0.72) elbow up -0.93 bend 150 | R hand fwd  0.27 (real  0.18) elbow fwd  0.02 (real  0.76) elbow up -0.94 bend 150
+ARM f119 clip  | L hand fwd  0.27 (real  0.23) elbow fwd  0.13 (real  0.73) elbow up -0.94 bend 150 | R hand fwd  0.26 (real  0.17) elbow fwd -0.06 (real  0.76) elbow up -0.92 bend 150
+ARM f120 BLEND | L hand fwd  0.27 (real  0.22) elbow fwd  0.13 (real  0.71) elbow up -0.94 bend 150 | R hand fwd  0.27 (real  0.15) elbow fwd -0.06 (real  0.74) elbow up -0.92 bend 150
+ARM f121 BLEND | L hand fwd  0.27 (real  0.20) elbow fwd  0.14 (real  0.68) elbow up -0.93 bend 149 | R hand fwd  0.28 (real  0.12) elbow fwd -0.08 (real  0.71) elbow up -0.93 bend 149
+ARM f122 BLEND | L hand fwd  0.28 (real  0.15) elbow fwd  0.15 (real  0.64) elbow up -0.92 bend 148 | R hand fwd  0.29 (real  0.08) elbow fwd -0.10 (real  0.68) elbow up -0.94 bend 147
+ARM f123 BLEND | L hand fwd  0.28 (real  0.09) elbow fwd  0.17 (real  0.60) elbow up -0.90 bend 146 | R hand fwd  0.30 (real  0.03) elbow fwd -0.12 (real  0.64) elbow up -0.96 bend 145
+ARM f124 BLEND | L hand fwd  0.28 (real  0.02) elbow fwd  0.19 (real  0.55) elbow up -0.88 bend 144 | R hand fwd  0.30 (real -0.03) elbow fwd -0.13 (real  0.60) elbow up -0.97 bend 143
+ARM f125 BLEND | L hand fwd  0.27 (real -0.06) elbow fwd  0.23 (real  0.51) elbow up -0.86 bend 142 | R hand fwd  0.29 (real -0.08) elbow fwd -0.13 (real  0.55) elbow up -0.99 bend 140
+ARM f126 BLEND | L hand fwd  0.24 (real -0.13) elbow fwd  0.27 (real  0.48) elbow up -0.83 bend 140 | R hand fwd  0.26 (real -0.13) elbow fwd -0.11 (real  0.51) elbow up -0.99 bend 137
+ARM f127 BLEND | L hand fwd  0.19 (real -0.18) elbow fwd  0.33 (real  0.45) elbow up -0.81 bend 138 | R hand fwd  0.21 (real -0.17) elbow fwd -0.07 (real  0.47) elbow up -1.00 bend 134
+ARM f128 BLEND | L hand fwd  0.14 (real -0.21) elbow fwd  0.38 (real  0.44) elbow up -0.79 bend 135 | R hand fwd  0.15 (real -0.19) elbow fwd -0.02 (real  0.44) elbow up -1.00 bend 131
+ARM f129 clip  | L hand fwd  0.07 (real -0.21) elbow fwd  0.44 (real  0.45) elbow up -0.78 bend 132 | R hand fwd  0.07 (real -0.20) elbow fwd  0.05 (real  0.43) elbow up -0.99 bend 128
+ARM f130 clip  | L hand fwd  0.01 (real -0.18) elbow fwd  0.52 (real  0.51) elbow up -0.73 bend 131 | R hand fwd -0.01 (real -0.17) elbow fwd  0.16 (real  0.48) elbow up -0.98 bend 125
+ARM f131 clip  | L hand fwd -0.05 (real -0.17) elbow fwd  0.58 (real  0.52) elbow up -0.72 bend 129 | R hand fwd -0.08 (real -0.17) elbow fwd  0.25 (real  0.48) elbow up -0.95 bend 124
+ARM f132 clip  | L hand fwd -0.13 (real -0.20) elbow fwd  0.57 (real  0.47) elbow up -0.76 bend 127 | R hand fwd -0.13 (real -0.18) elbow fwd  0.31 (real  0.47) elbow up -0.92 bend 121
+ARM f133 clip  | L hand fwd -0.20 (real -0.23) elbow fwd  0.51 (real  0.40) elbow up -0.82 bend 126 | R hand fwd -0.16 (real -0.16) elbow fwd  0.36 (real  0.48) elbow up -0.90 bend 118
+ARM f134 clip  | L hand fwd -0.24 (real -0.23) elbow fwd  0.44 (real  0.37) elbow up -0.81 bend 122 | R hand fwd -0.15 (real -0.12) elbow fwd  0.44 (real  0.51) elbow up -0.86 bend 114
+ARM f135 clip  | L hand fwd -0.21 (real -0.16) elbow fwd  0.47 (real  0.42) elbow up -0.63 bend 112 | R hand fwd -0.12 (real -0.06) elbow fwd  0.53 (real  0.57) elbow up -0.81 bend 112
+ARM f136 clip  | L hand fwd  0.12 (real  0.23) elbow fwd  0.71 (real  0.66) elbow up -0.19 bend  85 | R hand fwd -0.11 (real -0.04) elbow fwd  0.61 (real  0.61) elbow up -0.77 bend 110
+ARM f137 clip  | L hand fwd  0.77 (real  0.79) elbow fwd  0.86 (real  0.84) elbow up  0.03 bend  22 | R hand fwd -0.13 (real -0.04) elbow fwd  0.62 (real  0.61) elbow up -0.77 bend 110
+ARM f138 clip  | L hand fwd  0.88 (real  0.88) elbow fwd  0.92 (real  0.87) elbow up  0.17 bend  21 | R hand fwd -0.15 (real -0.05) elbow fwd  0.58 (real  0.58) elbow up -0.80 bend 108
+ARM f139 clip  | L hand fwd  0.61 (real  0.68) elbow fwd  0.89 (real  0.83) elbow up -0.09 bend  45 | R hand fwd -0.18 (real -0.08) elbow fwd  0.54 (real  0.54) elbow up -0.83 bend 107
+ARM f140 clip  | L hand fwd  0.17 (real  0.27) elbow fwd  0.74 (real  0.72) elbow up -0.43 bend  68 | R hand fwd -0.22 (real -0.12) elbow fwd  0.49 (real  0.49) elbow up -0.86 bend 107
+Blender 5.2.0 LTS (hash fbe6228777e7 built 2026-07-14 01:35:40)
+
+Blender quit

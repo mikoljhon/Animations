@@ -1,0 +1,2 @@
+C:\ai\unedited\mender_v03.py:1879: DeprecationWarning: 'World.use_nodes' is expected to be removed in Blender 6.0
+  w.use_nodes = True

@@ -1,0 +1,2 @@
+C:\ai\unedited\killdroid_v02_build.py:853: DeprecationWarning: 'World.use_nodes' is expected to be removed in Blender 6.0
+  w.use_nodes = True

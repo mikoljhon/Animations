@@ -1,0 +1,15 @@
+00:02.266  blend            | Read blend: "C:\ai\unedited\fight_v03.blend"
+C:\ai\unedited\mc_test.py:78: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  m = bpy.data.materials.new(name); m.use_nodes = True
+POLES {'shin.L': (-75, 0.9), 'shin.R': (-105, 0.9), 'forearm.L': (60, 7.0), 'forearm.R': (120, 6.5)}
+BIGCLAMP frame 123 ['gap'] 29
+GUARD frames 388, frames where a joint had to be pulled back 180, worst pull-back 29 deg, joint turns slowed to a human speed 12 times
+  upperarm.L   pulled back on  19 frames, worst  29 deg
+  foot.L       pulled back on 113 frames, worst  21 deg
+  foot.R       pulled back on 114 frames, worst  16 deg
+  upperarm.R   pulled back on  15 frames, worst  15 deg
+Info: Saved as "mc_test_relic_punch_144_20_a.blend"
+MC BAKED 388 {'punch_144_20_a': (4, 61, 30), 'punch_144_13_a': (75, 44, 22), 'punch_143_23_a': (129, 50, 25), 'punch_14_03_a': (189, 57, 28), 'punch_13_17_a': (256, 50, 25), 'guard_76_04': (316, 62, 31)}
+Blender 5.2.0 LTS (hash fbe6228777e7 built 2026-07-14 01:35:40)
+
+Blender quit

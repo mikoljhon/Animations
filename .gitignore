@@ -1,0 +1,27 @@
+# Third-party tools and model weights: reinstall them, don't version them
+/chatterbox/
+/msflow/
+/kokoro/
+
+# Downloaded and derived mocap data (mocap/cmu_bvh/download_cmu.sh and mocap/prep_cmu.py rebuild it)
+/mocap/cmu_bvh/zips/
+/mocap/data/
+
+# Blender's automatic backups
+*.blend1
+*.blend2
+
+# Frame sequences: every subfolder of renders/ (re-render them from the .blend files;
+# the encoded .mp4 files and the boards and stills at the top of renders/ are kept)
+/unedited/renders/*/
+
+# Third-party images (the KillDroid concept art, the boards that reproduce it, and
+# Meshy's animation-library previews): kept on this PC, never published
+/unedited/refs/killdroid_ref.jpg
+/unedited/renders/killdroid_v01_vs_ref.png
+/unedited/renders/killdroid_v02_vs_ref.png
+/unedited/meshy_ref/
+
+# Python caches
+__pycache__/
+*.pyc

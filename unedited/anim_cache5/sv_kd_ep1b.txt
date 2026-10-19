@@ -1,0 +1,44 @@
+00:02.015  blend            | Read blend: "C:\ai\unedited\pipe_kd_ep1b.blend"
+00:06.531  render           | Saved: 'C:\ai\unedited\renders\sv_kd_ep1b\kd_swing_14_02_0050_kd_front.png'
+00:07.437  render           | Saved: 'C:\ai\unedited\renders\sv_kd_ep1b\kd_swing_14_02_0050_kd_side.png'
+00:08.062  render           | Saved: 'C:\ai\unedited\renders\sv_kd_ep1b\kd_swing_14_02_0050_real_front.png'
+00:08.719  render           | Saved: 'C:\ai\unedited\renders\sv_kd_ep1b\kd_swing_14_02_0050_real_side.png'
+00:09.500  render           | Saved: 'C:\ai\unedited\renders\sv_kd_ep1b\kd_swing_14_02_0057_kd_front.png'
+00:10.328  render           | Saved: 'C:\ai\unedited\renders\sv_kd_ep1b\kd_swing_14_02_0057_kd_side.png'
+00:10.922  render           | Saved: 'C:\ai\unedited\renders\sv_kd_ep1b\kd_swing_14_02_0057_real_front.png'
+00:11.578  render           | Saved: 'C:\ai\unedited\renders\sv_kd_ep1b\kd_swing_14_02_0057_real_side.png'
+00:12.328  render           | Saved: 'C:\ai\unedited\renders\sv_kd_ep1b\kd_swing_14_02_0071_kd_front.png'
+00:13.172  render           | Saved: 'C:\ai\unedited\renders\sv_kd_ep1b\kd_swing_14_02_0071_kd_side.png'
+00:13.781  render           | Saved: 'C:\ai\unedited\renders\sv_kd_ep1b\kd_swing_14_02_0071_real_front.png'
+00:14.422  render           | Saved: 'C:\ai\unedited\renders\sv_kd_ep1b\kd_swing_14_02_0071_real_side.png'
+00:15.203  render           | Saved: 'C:\ai\unedited\renders\sv_kd_ep1b\kd_punch_L_02_05_0159_kd_front.png'
+00:16.000  render           | Saved: 'C:\ai\unedited\renders\sv_kd_ep1b\kd_punch_L_02_05_0159_kd_side.png'
+00:16.609  render           | Saved: 'C:\ai\unedited\renders\sv_kd_ep1b\kd_punch_L_02_05_0159_real_front.png'
+00:17.281  render           | Saved: 'C:\ai\unedited\renders\sv_kd_ep1b\kd_punch_L_02_05_0159_real_side.png'
+00:18.062  render           | Saved: 'C:\ai\unedited\renders\sv_kd_ep1b\kd_punch_L_02_05_0173_kd_front.png'
+00:18.890  render           | Saved: 'C:\ai\unedited\renders\sv_kd_ep1b\kd_punch_L_02_05_0173_kd_side.png'
+00:19.484  render           | Saved: 'C:\ai\unedited\renders\sv_kd_ep1b\kd_punch_L_02_05_0173_real_front.png'
+00:20.156  render           | Saved: 'C:\ai\unedited\renders\sv_kd_ep1b\kd_punch_L_02_05_0173_real_side.png'
+00:20.937  render           | Saved: 'C:\ai\unedited\renders\sv_kd_ep1b\kd_punch_L_02_05_0187_kd_front.png'
+00:21.765  render           | Saved: 'C:\ai\unedited\renders\sv_kd_ep1b\kd_punch_L_02_05_0187_kd_side.png'
+00:22.359  render           | Saved: 'C:\ai\unedited\renders\sv_kd_ep1b\kd_punch_L_02_05_0187_real_front.png'
+00:23.015  render           | Saved: 'C:\ai\unedited\renders\sv_kd_ep1b\kd_punch_L_02_05_0187_real_side.png'
+00:23.797  render           | Saved: 'C:\ai\unedited\renders\sv_kd_ep1b\kd_lift_137_40_0336_kd_front.png'
+00:24.625  render           | Saved: 'C:\ai\unedited\renders\sv_kd_ep1b\kd_lift_137_40_0336_kd_side.png'
+00:25.234  render           | Saved: 'C:\ai\unedited\renders\sv_kd_ep1b\kd_lift_137_40_0336_real_front.png'
+00:25.890  render           | Saved: 'C:\ai\unedited\renders\sv_kd_ep1b\kd_lift_137_40_0336_real_side.png'
+00:26.687  render           | Saved: 'C:\ai\unedited\renders\sv_kd_ep1b\kd_lift_137_40_0345_kd_front.png'
+00:27.484  render           | Saved: 'C:\ai\unedited\renders\sv_kd_ep1b\kd_lift_137_40_0345_kd_side.png'
+00:28.094  render           | Saved: 'C:\ai\unedited\renders\sv_kd_ep1b\kd_lift_137_40_0345_real_front.png'
+00:28.750  render           | Saved: 'C:\ai\unedited\renders\sv_kd_ep1b\kd_lift_137_40_0345_real_side.png'
+00:29.547  render           | Saved: 'C:\ai\unedited\renders\sv_kd_ep1b\kd_lift_137_40_0358_kd_front.png'
+00:30.422  render           | Saved: 'C:\ai\unedited\renders\sv_kd_ep1b\kd_lift_137_40_0358_kd_side.png'
+00:31.015  render           | Saved: 'C:\ai\unedited\renders\sv_kd_ep1b\kd_lift_137_40_0358_real_front.png'
+00:31.687  render           | Saved: 'C:\ai\unedited\renders\sv_kd_ep1b\kd_lift_137_40_0358_real_side.png'
+PICK kd_swing_14_02 R [('chamber', 50), ('strike', 57), ('recoil', 71)]
+PICK kd_punch_L_02_05 L [('chamber', 159), ('strike', 173), ('recoil', 187)]
+PICK kd_lift_137_40 R [('chamber', 336), ('strike', 345), ('recoil', 358)]
+SV DONE kd_ep1b
+Blender 5.2.0 LTS (hash fbe6228777e7 built 2026-07-14 01:35:40)
+
+Blender quit

@@ -1,0 +1,7 @@
+00:02.813  blend            | Read blend: "C:\ai\unedited\fight_v01.blend"
+POLES {'shin.L': (-75, 0.8), 'shin.R': (-105, 0.8), 'forearm.L': (60, 7.0), 'forearm.R': (120, 7.0)}
+Info: Saved as "mc_test_relic_punch_144_20_a.blend"
+MC BAKED 388 {'punch_144_20_a': (4, 61, 30), 'punch_144_13_a': (75, 44, 22), 'punch_143_23_a': (129, 50, 25), 'punch_14_03_a': (189, 57, 28), 'punch_13_17_a': (256, 50, 25), 'guard_76_04': (316, 62, 31)}
+Blender 5.2.0 LTS (hash fbe6228777e7 built 2026-07-14 01:35:40)
+
+Blender quit

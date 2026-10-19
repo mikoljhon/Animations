@@ -1,0 +1,17 @@
+{
+ "approved": [
+  "kd_swing_14_02",
+  "kd_punch_L_02_05",
+  "kd_lift_137_40",
+  "kd_punch_L_14_03"
+ ],
+ "rejected": {
+  "kd_swing_14_01": [
+   "[XX] the crusher and the fist never cut into its own hull (any frame) 1 frames [(36, 'crusher', 418)]; 87 hand-frames moved out of the hull",
+   "[XX] elbows bend as much as the real elbows (p95 / worst)       19 / 95 deg (limit 20 / 45)"
+  ],
+  "kd_kneel_23_03": [
+   "[XX] elbows bend as much as the real elbows (p95 / worst)       27 / 42 deg (limit 20 / 45)"
+  ]
+ }
+}

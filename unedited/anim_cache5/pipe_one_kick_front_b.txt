@@ -1,0 +1,26 @@
+00:02.266  blend            | Read blend: "C:\ai\unedited\fight_v03.blend"
+C:\ai\unedited\pipe_test.py:32: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  m.use_nodes = True
+GDBG frame 25 thigh.R excess 66 swing 140 twist 66 dir a1 0.39 a2 0.51 ranges (130, 30, 60, 30, -45, 45)
+GUARD frames 41, frames where a joint had to be pulled back 41, worst pull-back 66 deg, joint turns slowed to a human speed 0 times
+  thigh.R      pulled back on   3 frames, worst  66 deg
+  foot.R       pulled back on  41 frames, worst  30 deg
+  foot.L       pulled back on  31 frames, worst  22 deg
+  upperarm.R   pulled back on   4 frames, worst   8 deg
+  upperarm.L   pulled back on   3 frames, worst   5 deg
+QA FAIL  (kick_front_b, frames 4-44)
+  [ok] elbows point the way the real elbows did (p95 / worst)     3 / 7 deg (limit 15 / 35)
+  [XX] knees point the way the real knees did (p95 / worst)       1 / 43 deg (limit 15 / 35)
+  [ok] hands go where the real hands went (p95)                   2 deg (limit 12)
+  [ok] no elbow or knee ever bends backwards                      0 frames
+  [ok] no joint turns faster than a human joint can               0 joint-frames
+  [ok] every joint inside its range                               0 joint-frames over 3 deg
+  [ok] the mesh never tears or stretches at a joint               worst 6 stretched edges (limit 12)
+  [ok] feet never sink into the floor                             -0.0 cm at frame 44 (limit 1.5)
+  worst knee frames: [(25, 'R', 43)]
+
+Info: Saved as "pipe_one_kick_front_b.blend"
+PIPE SAVED one_kick_front_b QA FAIL
+Blender 5.2.0 LTS (hash fbe6228777e7 built 2026-07-14 01:35:40)
+
+Blender quit

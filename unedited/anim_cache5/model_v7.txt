@@ -1,0 +1,39 @@
+00:05.953  blend            | Read blend: "C:\ai\unedited\fight_v06.blend"
+SMOOTH pass 0 relabelled 340
+SMOOTH pass 1 relabelled 315
+SMOOTH pass 2 relabelled 312
+CUT hip L 15640
+CUT hip R 15609
+CUT elbow L 10511
+CUT knee L 17614
+CUT ankle L 15988
+CUT toe L 6296
+CUT elbow R 10262
+CUT knee R 17346
+CUT ankle R 15697
+CUT toe R 6127
+CHAIN arm L relabelled 1182
+CHAIN leg L relabelled 136
+CHAIN arm R relabelled 1030
+CHAIN leg R relabelled 128
+   CAP at forearm.R -> forearm.R (was upperarm.R) 465 verts
+   CAP at shin.R -> shin.R (was thigh.R) 530 verts
+   CAP at shin.R -> shin.R (was thigh.R) 265 verts
+   CAP at shin.L -> shin.L (was thigh.L) 408 verts
+   CAP at shin.L -> shin.L (was thigh.L) 395 verts
+   CAP at shin.L -> shin.L (was thigh.L) 472 verts
+SMALL pieces attached to the armour they touch: 135
+SPECKS pass 0 patches relabelled 63
+SPECKS pass 1 patches relabelled 0
+SPLIT edges 1883
+CHECK tiny loose pieces after the cut (also counts tiny pieces the original mesh already had): 2
+RIGID vertices 72033  torso vertices freed from limb weights 5473
+NORMALS transferred; mesh now 144908 verts 238227 faces
+UNDERSUIT torso rings 22
+UNDERSUIT limbs [('upperarm.L', 0.037, 0.029), ('forearm.L', 0.057, 0.025), ('thigh.L', 0.056, 0.059), ('shin.L', 0.056, 0.05), ('foot.L', 0.053, 0.032), ('upperarm.R', 0.039, 0.031), ('forearm.R', 0.05, 0.025), ('thigh.R', 0.036, 0.058), ('shin.R', 0.056, 0.055), ('foot.R', 0.051, 0.03)]
+UNDERSUIT 904 verts
+Info: Saved as "fight_v07.blend"
+MODEL v7 SAVED
+Blender 5.2.0 LTS (hash fbe6228777e7 built 2026-07-14 01:35:40)
+
+Blender quit

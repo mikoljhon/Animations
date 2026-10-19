@@ -1,0 +1,26 @@
+00:06.094  blend            | Read blend: "C:\ai\unedited\fight_v06.blend"
+OBJ Relic_AI verts 140491 faces 235825 mats ['tripo_material_64ddbe3a-183a-4431-a767-71dfe2acc56c'] shape keys [] mods [('ARMATURE', 'Armature')] parent Relic_AI_Rig uv ['UVMap'] attrs ['custom_normal', 'UVMap', '.select_vert', '.select_edge', '.select_poly', '.uv_select_vert', '.uv_select_edge', '.uv_select_face', 'position', '.edge_verts', '.corner_vert', '.corner_edge']
+OBJ Relic_AI_Crust verts 140491 faces 235825 mats ['Relic_Crust'] shape keys [] mods [('ARMATURE', 'Armature'), ('DISPLACE', 'Inflate')] parent Relic_AI_Rig uv ['UVMap'] attrs ['custom_normal', 'UVMap', '.select_vert', '.select_edge', '.select_poly', '.uv_select_vert', '.uv_select_edge', '.uv_select_face', 'position', '.edge_verts', '.corner_vert', '.corner_edge']
+OBJ Relic_AI_Eyes verts 170 faces 168 mats ['Relic_Glyph'] shape keys ['Basis', 'Blink', 'Wide', 'Angry', 'Sad', 'Happy'] mods [('ARMATURE', 'Armature')] parent Relic_AI_Rig uv [] attrs ['.select_vert', 'position', '.corner_vert', '.corner_edge', '.select_poly', 'sharp_face', '.edge_verts', '.select_edge']
+OBJ Relic_AI_Ring verts 672 faces 672 mats ['Relic_RingLight'] shape keys [] mods [('ARMATURE', 'Armature')] parent Relic_AI_Rig uv [] attrs ['position', '.edge_verts', '.corner_vert', '.corner_edge']
+OBJ Relic_AI_RingBezel verts 560 faces 560 mats ['Relic_Gunmetal'] shape keys [] mods [('ARMATURE', 'Armature')] parent Relic_AI_Rig uv [] attrs ['position', '.edge_verts', '.corner_vert', '.corner_edge']
+OBJ Relic_AI_RingCore verts 80 faces 42 mats ['Relic_Dark'] shape keys [] mods [('ARMATURE', 'Armature')] parent Relic_AI_Rig uv [] attrs ['position', '.edge_verts', '.corner_vert', '.corner_edge']
+OBJ RelicJoint_foot.L verts 146 faces 160 mats ['RelicJoint'] shape keys [] mods [] parent Relic_AI_Rig uv [] attrs ['sharp_face', 'position', '.edge_verts', '.corner_vert', '.corner_edge']
+OBJ RelicJoint_foot.R verts 146 faces 160 mats ['RelicJoint'] shape keys [] mods [] parent Relic_AI_Rig uv [] attrs ['sharp_face', 'position', '.edge_verts', '.corner_vert', '.corner_edge']
+OBJ RelicJoint_forearm.L verts 32 faces 18 mats ['RelicJoint'] shape keys [] mods [] parent Relic_AI_Rig uv [] attrs ['sharp_face', 'position', '.edge_verts', '.corner_vert', '.corner_edge']
+OBJ RelicJoint_forearm.R verts 32 faces 18 mats ['RelicJoint'] shape keys [] mods [] parent Relic_AI_Rig uv [] attrs ['sharp_face', 'position', '.edge_verts', '.corner_vert', '.corner_edge']
+OBJ RelicJoint_hand.L verts 146 faces 160 mats ['RelicJoint'] shape keys [] mods [] parent Relic_AI_Rig uv [] attrs ['sharp_face', 'position', '.edge_verts', '.corner_vert', '.corner_edge']
+OBJ RelicJoint_hand.R verts 146 faces 160 mats ['RelicJoint'] shape keys [] mods [] parent Relic_AI_Rig uv [] attrs ['sharp_face', 'position', '.edge_verts', '.corner_vert', '.corner_edge']
+OBJ RelicJoint_shin.L verts 32 faces 18 mats ['RelicJoint'] shape keys [] mods [] parent Relic_AI_Rig uv [] attrs ['sharp_face', 'position', '.edge_verts', '.corner_vert', '.corner_edge']
+OBJ RelicJoint_shin.R verts 32 faces 18 mats ['RelicJoint'] shape keys [] mods [] parent Relic_AI_Rig uv [] attrs ['sharp_face', 'position', '.edge_verts', '.corner_vert', '.corner_edge']
+OBJ RelicJoint_thigh.L verts 146 faces 160 mats ['RelicJoint'] shape keys [] mods [] parent Relic_AI_Rig uv [] attrs ['sharp_face', 'position', '.edge_verts', '.corner_vert', '.corner_edge']
+OBJ RelicJoint_thigh.R verts 146 faces 160 mats ['RelicJoint'] shape keys [] mods [] parent Relic_AI_Rig uv [] attrs ['sharp_face', 'position', '.edge_verts', '.corner_vert', '.corner_edge']
+OBJ RelicJoint_upperarm.L verts 146 faces 160 mats ['RelicJoint'] shape keys [] mods [] parent Relic_AI_Rig uv [] attrs ['sharp_face', 'position', '.edge_verts', '.corner_vert', '.corner_edge']
+OBJ RelicJoint_upperarm.R verts 146 faces 160 mats ['RelicJoint'] shape keys [] mods [] parent Relic_AI_Rig uv [] attrs ['sharp_face', 'position', '.edge_verts', '.corner_vert', '.corner_edge']
+RIG scale (1.0, 1.0, 1.0) bones 26
+DEFORM ['root', 'pelvis', 'spine', 'chest', 'neck', 'head', 'clavicle.L', 'upperarm.L', 'forearm.L', 'hand.L', 'clavicle.R', 'upperarm.R', 'forearm.R', 'hand.R', 'thigh.L', 'shin.L', 'foot.L', 'toe.L', 'thigh.R', 'shin.R', 'foot.R', 'toe.R', 'ik_foot.L', 'ik_knee.L', 'ik_foot.R', 'ik_knee.R']
+NONDEFORM []
+MATNODE tripo_material_64ddbe3a-183a-4431-a767-71dfe2acc56c VALUE Age AG Age (0 new, 1 = 100 years)
+Blender 5.2.0 LTS (hash fbe6228777e7 built 2026-07-14 01:35:40)
+
+Blender quit

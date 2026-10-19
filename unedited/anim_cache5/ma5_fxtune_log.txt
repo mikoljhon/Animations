@@ -1,0 +1,6 @@
+    0.0  controls + dust keyed
+    2.6  cameras Anim_Cam_Wide
+    3.0  puffs
+    4.2  pebbles placed 16
+   96.0  pebbles 16
+   96.2  saved

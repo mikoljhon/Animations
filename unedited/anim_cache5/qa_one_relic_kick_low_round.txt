@@ -1,0 +1,29 @@
+00:02.578  blend            | Read blend: "C:\ai\unedited\fight_v06.blend"
+Blender 5.2.0 LTS (hash fbe6228777e7 built 2026-07-14 01:35:40)
+GDBG frame 36 foot.R excess 47 swing 92 twist 11 dir a1 -1.00 a2 0.06 ranges (35, 45, 25, 25, -30, 30)
+GUARD frames 57, frames where a joint had to be pulled back 47, worst pull-back 47 deg, joint turns slowed to a human speed 10 times
+  foot.R       pulled back on  33 frames, worst  47 deg
+  foot.L       pulled back on  18 frames, worst  27 deg
+  upperarm.R   pulled back on   9 frames, worst   3 deg
+  upperarm.L   pulled back on  10 frames, worst   3 deg
+  thigh.R      pulled back on   6 frames, worst   3 deg
+QA FAIL  (kick_low_round, frames 4-60)
+  [ok] Relic: no elbow/knee ever points the impossible way (any frame) 0 joint-frames, worst 110 deg off natural []
+  [ok] the reference capture itself is anatomically possible      0 joint-frames, worst 92 deg off natural []
+  [ok] fists never inside Relic's own body (any frame)            0 fist-frames, closest 20.7 cm; 0 fist-frames moved out of his armour []
+  [XX] knees bend as much as the real knees (p95 / worst)         16 / 17 deg (limit 10 / 25)
+  [ok] elbows bend as much as the real elbows (p95 / worst)       9 / 16 deg (limit 20 / 45)
+  [ok] the body faces, twists and leans like the real one (p95 / worst) 7 / 12 deg (limit 12 / 25)
+  [XX] elbows point the way the real elbows did (p95 / worst)     17 / 74 deg (limit 15 / 35)
+  [ok] knees point the way the real knees did (p95 / worst)       12 / 15 deg (limit 15 / 35)
+  [XX] hands go where the real hands went (p95)                   12 deg (limit 12)
+  [ok] no elbow or knee ever bends backwards                      0 frames
+  [ok] no joint turns faster than a human joint can               0 joint-frames
+  [XX] every joint inside its range                               1 joint-frames over 3 deg
+  [ok] no skin weight leaks between limbs (skin_rules.py)         0 pieces []
+  [ok] the mesh never stretches into a spike (edge >3x and >6 cm) worst 0 edges, frames [] (limit 0)
+  [ok] feet never sink into the floor                             -0.7 cm at frame 44 (limit 1.5)
+  worst elbow frames: [(4, 'R', 60), (5, 'R', 57), (10, 'L', 74), (11, 'L', 35)]
+  outside range: [(11, 'upperarm.L', 27)]
+
+PIPE QA ONLY one_relic_kick_low_round QA FAIL

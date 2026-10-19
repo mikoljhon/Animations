@@ -1,0 +1,13 @@
+00:05.531  render           | Saved: 'C:\ai\unedited\renders\kd2_concept_B_hero.png'
+00:06.125  render           | Saved: 'C:\ai\unedited\renders\kd2_concept_B_side.png'
+00:06.640  render           | Saved: 'C:\ai\unedited\renders\kd2_concept_B_head.png'
+00:06.718  render           | Saved: 'C:\ai\unedited\renders\kd2_concept_B_sil.png'
+BUILT {'direction': 'B', 'body_verts': 766, 'rigid_parts': 133, 'bones': 26, 'height_m': 2.906, 'floor_m': -0.0, 'width_m': 2.331, 'depth_m': 1.255}
+RENDERED C:\ai\unedited\renders\kd2_concept_B_hero.png
+RENDERED C:\ai\unedited\renders\kd2_concept_B_side.png
+RENDERED C:\ai\unedited\renders\kd2_concept_B_head.png
+RENDERED C:\ai\unedited\renders\kd2_concept_B_sil.png
+DONE concept B
+Blender 5.2.0 LTS (hash fbe6228777e7 built 2026-07-14 01:35:40)
+
+Blender quit

@@ -1,0 +1,12 @@
+    0.0  action MenderC_RigAction.001 backed up as MenderC_cut5_original
+    6.2  recorded {'L': 211, 'R': 212}
+   11.9  first leans 221
+   33.2  solve_grip done
+   53.5  refine round 0
+   79.3  refine round 1
+   91.2  overlap baked
+   97.0  targets 221 leans 221 max lean deg 3.7
+  103.6  fix_animation done
+  113.3  leg follow {'ik_foot.L': 16.3, 'ik_foot.R': 3.1}
+  116.9  remaining {'foot.L': {'frames': 3, 'worst_deg': 3.6}, 'foot.R': {'frames': 15, 'worst_deg': 4.2}}
+  118.2  saved {'remaining': {'foot.L': {'frames': 3, 'worst_deg': 3.6}, 'foot.R': {'frames': 15, 'worst_deg': 4.2}}, 'hand_err_cm': {'L': [174.0, 144], 'R': [205.76, 218]}, 'leg_follow': "{'ik_foot.L': 16.3, 'ik_foot.R': 3.1}"}

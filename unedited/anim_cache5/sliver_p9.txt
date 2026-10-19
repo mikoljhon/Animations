@@ -1,0 +1,14 @@
+00:05.938  blend            | Read blend: "C:\ai\unedited\pipe_punches9.blend"
+mods [('ARMATURE', 'Armature')]
+FRAME 4 edges ratio>1.8 & >4cm: 90  ratio>3 & >8cm: 12
+  piece 138451 (97 verts, 12 bad edges): worst edge 0.148 m (rest 0.003, x56.4)  v92402 {'upperarm.R': 1.0}  ->  v13071 {'chest': 1.0}
+  piece 102453 (556 verts, 29 bad edges): worst edge 0.062 m (rest 0.024, x2.6)  v56305 {'hand.L': 0.42, 'fist1.L': 0.58}  ->  v18682 {'hand.L': 0.04, 'fist1.L': 0.93, 'fist2.L': 0.04}
+  piece 25375 (523 verts, 9 bad edges): worst edge 0.060 m (rest 0.026, x2.3)  v90250 {'hand.R': 0.6, 'fist1.R': 0.4}  ->  v71585 {'hand.R': 0.11, 'fist1.R': 0.89}
+  piece 18929 (779 verts, 17 bad edges): worst edge 0.059 m (rest 0.021, x2.8)  v40807 {'hand.R': 0.62, 'fist1.R': 0.38}  ->  v55326 {'hand.R': 0.2, 'fist1.R': 0.8}
+  piece 84048 (513 verts, 17 bad edges): worst edge 0.059 m (rest 0.025, x2.3)  v160 {'hand.L': 0.11, 'fist1.L': 0.89}  ->  v94973 {'hand.L': 0.59, 'fist1.L': 0.41}
+  piece 119505 (276 verts, 1 bad edges): worst edge 0.046 m (rest 0.024, x1.9)  v28844 {'hand.L': 0.35, 'fist1.L': 0.65}  ->  v61447 {'hand.L': 0.03, 'fist1.L': 0.93, 'fist2.L': 0.04}
+  piece 132664 (360 verts, 3 bad edges): worst edge 0.044 m (rest 0.019, x2.3)  v80878 {'hand.L': 0.4, 'fist1.L': 0.6}  ->  v46424 {'hand.L': 0.07, 'fist1.L': 0.92}
+  piece 128952 (272 verts, 2 bad edges): worst edge 0.042 m (rest 0.022, x1.9)  v7808 {'hand.L': 0.28, 'fist1.L': 0.72}  ->  v124193 {'hand.L': 0.02, 'fist1.L': 0.91, 'fist2.L': 0.07}
+Blender 5.2.0 LTS (hash fbe6228777e7 built 2026-07-14 01:35:40)
+
+Blender quit

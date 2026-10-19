@@ -1,0 +1,36 @@
+01-09: no link (attempt 1)
+01-09: no link (attempt 2)
+01-09: no link (attempt 3)
+10-14: downloading cmuconvert-daz-10-14.zip
+10-14: ok 90M
+15-19: downloading cmuconvert-daz-15-19.zip
+15-19: ok 91M
+20-29: downloading cmuconvert-daz-20-29.zip
+20-29: ok 118M
+30-34: downloading cmuconvert-daz-30-34.zip
+30-34: ok 116M
+35-39: downloading cmuconvert-daz-35-39.zip
+35-39: ok 70M
+40-45: downloading cmuconvert-daz-40-45.zip
+40-45: ok 50M
+46-56: downloading cmuconvert-daz-46-56.zip
+46-56: ok 112M
+60-75: downloading cmuconvert-daz-60-75.zip
+60-75: ok 123M
+76-80: downloading cmuconvert-daz-76-80.zip
+76-80: ok 93M
+81-85: downloading cmuconvert-daz-81-85.zip
+81-85: ok 45M
+86-94: downloading cmuconvert-daz-86-94.zip
+86-94: ok 124M
+102-111: downloading cmuconvert-daz-102-111.zip
+102-111: ok 106M
+113-128: downloading cmuconvert-daz-113-128.zip
+113-128: ok 133M
+131-135: downloading cmuconvert-daz-131-135.zip
+131-135: ok 75M
+136-140: downloading cmuconvert-daz-136-140.zip
+136-140: ok 87M
+141-144: downloading cmuconvert-daz-141-144.zip
+141-144: ok 92M
+done: 16 zips, 1.5G

@@ -1,0 +1,68 @@
+00:02.109  blend            | Read blend: "C:\ai\unedited\fight_v05.blend"
+Blender 5.2.0 LTS (hash fbe6228777e7 built 2026-07-14 01:35:40)
+GDBG frame 4 upperarm.R excess 49 swing 136 twist 104 dir a1 -0.26 a2 -0.65 ranges (135, 45, 100, 95, -90, 90)
+GDBG frame 5 upperarm.R excess 48 swing 138 twist 107 dir a1 -0.22 a2 -0.63 ranges (135, 45, 100, 95, -90, 90)
+GDBG frame 6 upperarm.R excess 54 swing 139 twist 98 dir a1 -0.27 a2 -0.60 ranges (135, 45, 100, 95, -90, 90)
+GDBG frame 7 upperarm.L excess 87 swing 132 twist 22 dir a1 -0.73 a2 -0.10 ranges (135, 45, 100, 95, -90, 90)
+GDBG frame 7 upperarm.R excess 55 swing 137 twist 93 dir a1 -0.31 a2 -0.61 ranges (135, 45, 100, 95, -90, 90)
+GDBG frame 8 upperarm.L excess 96 swing 141 twist 18 dir a1 -0.62 a2 -0.07 ranges (135, 45, 100, 95, -90, 90)
+GDBG frame 8 upperarm.R excess 43 swing 135 twist 111 dir a1 -0.20 a2 -0.67 ranges (135, 45, 100, 95, -90, 90)
+GDBG frame 18 upperarm.L excess 85 swing 131 twist 10 dir a1 -0.74 a2 -0.15 ranges (135, 45, 100, 95, -90, 90)
+GDBG frame 18 upperarm.R excess 44 swing 133 twist 105 dir a1 -0.26 a2 -0.68 ranges (135, 45, 100, 95, -90, 90)
+GDBG frame 19 upperarm.R excess 56 swing 137 twist 92 dir a1 -0.31 a2 -0.60 ranges (135, 45, 100, 95, -90, 90)
+GDBG frame 20 upperarm.R excess 52 swing 141 twist 103 dir a1 -0.23 a2 -0.59 ranges (135, 45, 100, 95, -90, 90)
+GDBG frame 21 upperarm.R excess 50 swing 142 twist 110 dir a1 -0.18 a2 -0.59 ranges (135, 45, 100, 95, -90, 90)
+GDBG frame 22 upperarm.R excess 66 swing 143 twist 83 dir a1 -0.31 a2 -0.52 ranges (135, 45, 100, 95, -90, 90)
+GDBG frame 23 upperarm.R excess 85 swing 136 twist 23 dir a1 -0.60 a2 -0.33 ranges (135, 45, 100, 95, -90, 90)
+GDBG frame 24 upperarm.R excess 83 swing 130 twist -4 dir a1 -0.74 a2 -0.20 ranges (135, 45, 100, 95, -90, 90)
+GDBG frame 26 upperarm.L excess 80 swing 134 twist -38 dir a1 -0.60 a2 -0.41 ranges (135, 45, 100, 95, -90, 90)
+GDBG frame 27 upperarm.L excess 49 swing 133 twist -99 dir a1 -0.31 a2 -0.66 ranges (135, 45, 100, 95, -90, 90)
+GDBG frame 30 upperarm.L excess 44 swing 133 twist -107 dir a1 -0.25 a2 -0.69 ranges (135, 45, 100, 95, -90, 90)
+GDBG frame 31 upperarm.L excess 77 swing 123 twist 7 dir a1 -0.82 a2 -0.20 ranges (135, 45, 100, 95, -90, 90)
+GDBG frame 32 upperarm.L excess 94 swing 140 twist 7 dir a1 -0.64 a2 -0.11 ranges (135, 45, 100, 95, -90, 90)
+GDBG frame 33 upperarm.R excess 63 swing 132 twist 76 dir a1 -0.45 a2 -0.59 ranges (135, 45, 100, 95, -90, 90)
+GDBG frame 34 upperarm.R excess 72 swing 134 twist 60 dir a1 -0.50 a2 -0.51 ranges (135, 45, 100, 95, -90, 90)
+GDBG frame 35 upperarm.R excess 50 swing 138 twist 102 dir a1 -0.25 a2 -0.62 ranges (135, 45, 100, 95, -90, 90)
+GDBG frame 36 upperarm.R excess 41 swing 136 twist 136 dir a1 -0.04 a2 -0.69 ranges (135, 45, 100, 95, -90, 90)
+GDBG frame 37 upperarm.R excess 40 swing 136 twist 132 dir a1 -0.06 a2 -0.70 ranges (135, 45, 100, 95, -90, 90)
+GDBG frame 38 upperarm.R excess 40 swing 135 twist 120 dir a1 -0.14 a2 -0.69 ranges (135, 45, 100, 95, -90, 90)
+GDBG frame 39 upperarm.L excess 96 swing 142 twist 11 dir a1 -0.61 a2 -0.09 ranges (135, 45, 100, 95, -90, 90)
+GDBG frame 39 upperarm.R excess 48 swing 134 twist 100 dir a1 -0.29 a2 -0.66 ranges (135, 45, 100, 95, -90, 90)
+GDBG frame 40 upperarm.L excess 101 swing 146 twist 29 dir a1 -0.55 a2 0.06 ranges (135, 45, 100, 95, -90, 90)
+GDBG frame 40 upperarm.R excess 67 swing 130 twist 63 dir a1 -0.53 a2 -0.56 ranges (135, 45, 100, 95, -90, 90)
+GDBG frame 41 upperarm.L excess 79 swing 128 twist 71 dir a1 -0.72 a2 0.31 ranges (135, 45, 100, 95, -90, 90)
+GDBG frame 41 upperarm.R excess 69 swing 121 twist 34 dir a1 -0.74 a2 -0.43 ranges (135, 45, 100, 95, -90, 90)
+GDBG frame 46 upperarm.R excess 70 swing 129 twist 68 dir a1 -0.59 a2 -0.51 ranges (135, 45, 100, 95, -90, 90)
+GDBG frame 47 upperarm.R excess 70 swing 122 twist 44 dir a1 -0.71 a2 -0.45 ranges (135, 45, 100, 95, -90, 90)
+GDBG frame 48 upperarm.R excess 58 swing 126 twist 75 dir a1 -0.51 a2 -0.63 ranges (135, 45, 100, 95, -90, 90)
+GDBG frame 49 upperarm.R excess 47 swing 128 twist 96 dir a1 -0.36 a2 -0.70 ranges (135, 45, 100, 95, -90, 90)
+GDBG frame 50 upperarm.L excess 91 swing 138 twist 5 dir a1 -0.64 a2 -0.19 ranges (135, 45, 100, 95, -90, 90)
+GDBG frame 50 upperarm.R excess 48 swing 128 twist 94 dir a1 -0.37 a2 -0.69 ranges (135, 45, 100, 95, -90, 90)
+GDBG frame 51 upperarm.L excess 99 swing 144 twist 25 dir a1 -0.59 a2 -0.00 ranges (135, 45, 100, 95, -90, 90)
+GDBG frame 51 upperarm.R excess 43 swing 127 twist 100 dir a1 -0.34 a2 -0.72 ranges (135, 45, 100, 95, -90, 90)
+GDBG frame 52 upperarm.R excess 48 swing 129 twist 95 dir a1 -0.36 a2 -0.69 ranges (135, 45, 100, 95, -90, 90)
+GDBG frame 53 upperarm.L excess 92 swing 138 twist 7 dir a1 -0.65 a2 -0.13 ranges (135, 45, 100, 95, -90, 90)
+GDBG frame 53 upperarm.R excess 56 swing 129 twist 84 dir a1 -0.44 a2 -0.65 ranges (135, 45, 100, 95, -90, 90)
+GDBG frame 54 upperarm.R excess 58 swing 129 twist 80 dir a1 -0.45 a2 -0.63 ranges (135, 45, 100, 95, -90, 90)
+GUARD frames 51, frames where a joint had to be pulled back 51, worst pull-back 101 deg, joint turns slowed to a human speed 21 times
+  upperarm.L   pulled back on  23 frames, worst 101 deg
+  upperarm.R   pulled back on  44 frames, worst  85 deg
+  foot.L       pulled back on  19 frames, worst  13 deg
+  foot.R       pulled back on  21 frames, worst  11 deg
+QA FAIL  (punch_143_23_a, frames 4-54)
+  [XX] Relic: no elbow/knee ever points the impossible way (any frame) 16 joint-frames, worst 179 deg off natural [(9, 'Lelbow', 118), (17, 'Lelbow', 141), (18, 'Lelbow', 179), (19, 'Lelbow', 122)]
+  [XX] the reference capture itself is anatomically possible      94 joint-frames, worst 180 deg off natural [(4, 'Lelbow', 179), (4, 'Relbow', 162), (5, 'Lelbow', 179), (5, 'Relbow', 163)]
+  [ok] the body faces, twists and leans like the real one (p95 / worst) 11 / 12 deg (limit 12 / 25)
+  [XX] elbows point the way the real elbows did (p95 / worst)     167 / 177 deg (limit 15 / 35)
+  [ok] knees point the way the real knees did (p95 / worst)       3 / 6 deg (limit 15 / 35)
+  [XX] hands go where the real hands went (p95)                   62 deg (limit 12)
+  [ok] no elbow or knee ever bends backwards                      0 frames
+  [ok] no joint turns faster than a human joint can               0 joint-frames
+  [XX] every joint inside its range                               8 joint-frames over 3 deg
+  [ok] no skin weight leaks between limbs (skin_rules.py)         0 pieces []
+  [ok] the mesh never stretches into a spike (edge >3x and >6 cm) worst 0 edges, frames [] (limit 0)
+  [ok] feet never sink into the floor                             -0.0 cm at frame 8 (limit 1.5)
+  worst elbow frames: [(4, 'L', 127), (4, 'R', 83), (5, 'L', 108), (5, 'R', 82), (6, 'L', 111), (6, 'R', 90), (7, 'L', 153), (7, 'R', 92)]
+  outside range: [(26, 'upperarm.L', 6), (27, 'upperarm.L', 16), (31, 'upperarm.L', 18), (42, 'upperarm.R', 5), (46, 'upperarm.R', 18), (50, 'upperarm.L', 12), (51, 'upperarm.L', 21), (52, 'upperarm.L', 6)]
+
+PIPE QA ONLY brokentest QA FAIL

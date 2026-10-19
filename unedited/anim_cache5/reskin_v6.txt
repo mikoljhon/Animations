@@ -1,0 +1,12 @@
+00:02.485  blend            | Read blend: "C:\ai\unedited\fight_v01.blend"
+LEAKS before: [(95806, 'head', 386, {'clavicle.R': 386}), (67745, 'hand.R', 209, {'thigh.R': 209}), (103476, 'hand.L', 71, {'thigh.L': 71}), (121425, 'clavicle.L', 29, {'head': 29})]
+LEAKS cleaned (pieces, vertices): (4, 695)
+RESKIN v5 pieces: rigid 74, bent along a limb chain 3, kept 144 (smoothed 83) (of 221)
+HIP ZONES (v6) hip pieces, vertices: (24, 20332)
+LEAKS after smoothing, cleaned again: (0, 0)
+LEAKS after: 0
+Info: Saved as "fight_v06s.blend"
+RESKIN SAVED
+Blender 5.2.0 LTS (hash fbe6228777e7 built 2026-07-14 01:35:40)
+
+Blender quit

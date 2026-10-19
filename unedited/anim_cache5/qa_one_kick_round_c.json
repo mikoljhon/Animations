@@ -1,0 +1,77 @@
+{
+ "elbow_dir": {
+  "n": 114,
+  "mean": 0.3455951276900579,
+  "p95": 3.4890920113728154,
+  "max": 6.45816285318732
+ },
+ "knee_dir": {
+  "n": 112,
+  "mean": 0.5070764562038479,
+  "p95": 1.0323819457890897,
+  "max": 1.6224474043130601
+ },
+ "hand_dir": {
+  "mean": 0.276209890146252,
+  "p95": 1.5517343757946387,
+  "max": 7.623724816653064
+ },
+ "hinge_backwards": [],
+ "speed_over": [],
+ "limit_excess": [],
+ "stretch_worst": 0,
+ "stretch_frames": [],
+ "floor_low_cm": -0.0,
+ "floor_frame": 6,
+ "worst_frames": {},
+ "frames": [
+  4,
+  60
+ ],
+ "clips": [
+  "kick_round_c"
+ ],
+ "checks": [
+  [
+   "elbows point the way the real elbows did (p95 / worst)",
+   true,
+   "3 / 6 deg (limit 15 / 35)"
+  ],
+  [
+   "knees point the way the real knees did (p95 / worst)",
+   true,
+   "1 / 2 deg (limit 15 / 35)"
+  ],
+  [
+   "hands go where the real hands went (p95)",
+   true,
+   "2 deg (limit 12)"
+  ],
+  [
+   "no elbow or knee ever bends backwards",
+   true,
+   "0 frames"
+  ],
+  [
+   "no joint turns faster than a human joint can",
+   true,
+   "0 joint-frames"
+  ],
+  [
+   "every joint inside its range",
+   true,
+   "0 joint-frames over 3 deg"
+  ],
+  [
+   "the mesh never tears or stretches at a joint",
+   true,
+   "worst 0 stretched edges (limit 12)"
+  ],
+  [
+   "feet never sink into the floor",
+   true,
+   "-0.0 cm at frame 6 (limit 1.5)"
+  ]
+ ],
+ "pass": true
+}

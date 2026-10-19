@@ -1,0 +1,9 @@
+00:05.828  blend            | Read blend: "C:\ai\unedited\pipe_punches9.blend"
+DEBRIS frame 10 floating pieces: 1
+   gap 1000000000.000 m  piece 52021  86 verts  rest centre (np.float64(0.495), np.float64(-0.0), np.float64(1.086))  bones [('upperarm.L', 86.0)]
+DEBRIS frame 22 floating pieces: 2
+   gap 1000000000.000 m  piece 126191  155 verts  rest centre (np.float64(-0.271), np.float64(0.235), np.float64(0.026))  bones [('shin.R', 155.0)]
+   gap 1000000000.000 m  piece 52021  86 verts  rest centre (np.float64(0.495), np.float64(-0.0), np.float64(1.086))  bones [('upperarm.L', 86.0)]
+Blender 5.2.0 LTS (hash fbe6228777e7 built 2026-07-14 01:35:40)
+
+Blender quit

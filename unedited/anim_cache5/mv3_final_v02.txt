@@ -1,0 +1,26 @@
+00:01.984  blend            | Read blend: "C:\ai\unedited\relic_v07_mender.blend"
+00:05.609  render           | Saved: 'C:\ai\unedited\renders\mender_v02_front.png'
+RENDERED C:\ai\unedited\renders\mender_v02_front.png
+00:06.672  render           | Saved: 'C:\ai\unedited\renders\mender_v02_q3.png'
+RENDERED C:\ai\unedited\renders\mender_v02_q3.png
+00:07.750  render           | Saved: 'C:\ai\unedited\renders\mender_v02_side.png'
+RENDERED C:\ai\unedited\renders\mender_v02_side.png
+00:08.781  render           | Saved: 'C:\ai\unedited\renders\mender_v02_back.png'
+RENDERED C:\ai\unedited\renders\mender_v02_back.png
+00:09.828  render           | Saved: 'C:\ai\unedited\renders\mender_v02_q3left.png'
+RENDERED C:\ai\unedited\renders\mender_v02_q3left.png
+00:10.625  render           | Saved: 'C:\ai\unedited\renders\mender_v02_cu_head.png'
+RENDERED C:\ai\unedited\renders\mender_v02_cu_head.png
+00:11.469  render           | Saved: 'C:\ai\unedited\renders\mender_v02_cu_arm.png'
+RENDERED C:\ai\unedited\renders\mender_v02_cu_arm.png
+00:12.297  render           | Saved: 'C:\ai\unedited\renders\mender_v02_cu_legs.png'
+RENDERED C:\ai\unedited\renders\mender_v02_cu_legs.png
+00:13.063  render           | Saved: 'C:\ai\unedited\renders\mender_v02_cu_patch.png'
+RENDERED C:\ai\unedited\renders\mender_v02_cu_patch.png
+00:13.891  render           | Saved: 'C:\ai\unedited\renders\mender_v02_cu_pack.png'
+RENDERED C:\ai\unedited\renders\mender_v02_cu_pack.png
+TURN v02 ['C:\\ai\\unedited\\renders\\mender_v02_front.png', 'C:\\ai\\unedited\\renders\\mender_v02_q3.png', 'C:\\ai\\unedited\\renders\\mender_v02_side.png', 'C:\\ai\\unedited\\renders\\mender_v02_back.png', 'C:\\ai\\unedited\\renders\\mender_v02_q3left.png', 'C:\\ai\\unedited\\renders\\mender_v02_cu_head.png', 'C:\\ai\\unedited\\renders\\mender_v02_cu_arm.png', 'C:\\ai\\unedited\\renders\\mender_v02_cu_legs.png', 'C:\\ai\\unedited\\renders\\mender_v02_cu_patch.png', 'C:\\ai\\unedited\\renders\\mender_v02_cu_pack.png']
+DONE turn
+Blender 5.2.0 LTS (hash fbe6228777e7 built 2026-07-14 01:35:40)
+
+Blender quit

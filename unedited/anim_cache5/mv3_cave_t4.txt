@@ -1,0 +1,10 @@
+00:02.188  blend            | Read blend: "C:\ai\unedited\mender_v03_cave.blend"
+00:24.391  render           | Saved: 'C:\ai\unedited\renders\mender_t4_cave_two_shot_dug.png'
+RENDERED C:\ai\unedited\renders\mender_t4_cave_two_shot_dug.png
+01:23.719  render           | Saved: 'C:\ai\unedited\renders\mender_t4_cave_over_shoulder_dug.png'
+RENDERED C:\ai\unedited\renders\mender_t4_cave_over_shoulder_dug.png
+CAVE ['C:\\ai\\unedited\\renders\\mender_t4_cave_two_shot_dug.png', 'C:\\ai\\unedited\\renders\\mender_t4_cave_over_shoulder_dug.png']
+DONE cave
+Blender 5.2.0 LTS (hash fbe6228777e7 built 2026-07-14 01:35:40)
+
+Blender quit

@@ -1,0 +1,28 @@
+avoid_76_03 FAIL
+       [XX] the body faces, twists and leans like the real one (p95 / worst) 16 / 16 deg (limit 12 / 25)
+       [XX] hands go where the real hands went (p95)                   25 deg (limit 12)
+block_144_07 PASS
+duck_134_01 FAIL
+       [XX] the body faces, twists and leans like the real one (p95 / worst) 13 / 17 deg (limit 12 / 25)
+duck_77_09 FAIL
+       [XX] the body faces, twists and leans like the real one (p95 / worst) 24 / 25 deg (limit 12 / 25)
+guard_76_04 FAIL
+       [XX] the body faces, twists and leans like the real one (p95 / worst) 14 / 15 deg (limit 12 / 25)
+kick_front_a PASS
+kick_front_b FAIL
+       [XX] the reference capture itself is anatomically possible      1 joint-frames, worst 113 deg off natural [(25, 'Rknee', 113)]
+       [XX] knees point the way the real knees did (p95 / worst)       1 / 40 deg (limit 15 / 35)
+kick_front_low PASS
+kick_low_round FAIL
+       [XX] elbows point the way the real elbows did (p95 / worst)     17 / 74 deg (limit 15 / 35)
+       [XX] hands go where the real hands went (p95)                   12 deg (limit 12)
+       [XX] every joint inside its range                               1 joint-frames over 3 deg
+kick_round_b PASS
+kick_round_c PASS
+punch_13_17_a PASS
+punch_143_23_a PASS
+punch_144_13_a PASS
+punch_144_20_a PASS
+punch_14_03_a PASS
+approved: ['block_144_07', 'kick_front_a', 'kick_front_low', 'kick_round_b', 'kick_round_c', 'punch_13_17_a', 'punch_143_23_a', 'punch_144_13_a', 'punch_144_20_a', 'punch_14_03_a']
+rejected: ['avoid_76_03', 'duck_134_01', 'duck_77_09', 'guard_76_04', 'kick_front_b', 'kick_low_round']

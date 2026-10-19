@@ -1,0 +1,15 @@
+C:\ai\unedited\pipe_test.py:36: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  m.use_nodes = True
+QA PASS  (kick_front_a, kick_front_low, kick_low_round, kick_round_b, kick_round_c, frames 4-291)
+sheet (1040, 5270) 17 rows
+sheet (1040, 4650) 15 rows
+STRIKES_DONE
+REEL DONE punches7
+REEL DONE kicks7
+ENCODED renders/UNEDITED_fight_punches_v7.mp4 375 frames
+ENCODED renders/UNEDITED_fight_kicks_v7.mp4 288 frames
+REELS7_DONE
+punch_14_03_a PASS
+approved: ['block_144_07', 'kick_front_a', 'kick_front_low', 'kick_round_b', 'kick_round_c', 'punch_13_17_a', 'punch_143_23_a', 'punch_144_13_a', 'punch_144_20_a', 'punch_14_03_a']
+rejected: ['avoid_76_03', 'duck_134_01', 'duck_77_09', 'guard_76_04', 'kick_front_b', 'kick_low_round']
+ALL7_DONE

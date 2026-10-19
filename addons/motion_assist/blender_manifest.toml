@@ -1,0 +1,13 @@
+schema_version = "1.0.0"
+
+id = "motion_assist"
+version = "0.4.0"
+name = "Motion Assist"
+tagline = "Physics checks, joint limits and AI posing for animation"
+maintainer = "UNEDITED project"
+type = "add-on"
+
+blender_version_min = "4.2.0"
+
+license = ["SPDX:GPL-3.0-or-later"]
+tags = ["Animation", "Rigging"]

@@ -1,0 +1,25 @@
+00:02.047  blend            | Read blend: "C:\ai\unedited\fight_v04.blend"
+GDBG frame 137 foot.R excess 46 swing 91 twist 2 dir a1 -0.99 a2 0.13 ranges (35, 45, 25, 25, -30, 30)
+GUARD frames 324, frames where a joint had to be pulled back 146, worst pull-back 46 deg, joint turns slowed to a human speed 7 times
+  foot.R       pulled back on  83 frames, worst  46 deg
+  foot.L       pulled back on  62 frames, worst  32 deg
+  upperarm.R   pulled back on  21 frames, worst  28 deg
+  upperarm.L   pulled back on  18 frames, worst  27 deg
+  thigh.R      pulled back on  14 frames, worst  16 deg
+QA PASS  (kick_front_a, kick_front_low, kick_low_round, kick_round_b, kick_round_c, frames 4-291)
+  [ok] the body faces, twists and leans like the real one (p95 / worst) 7 / 12 deg (limit 12 / 25)
+  [ok] elbows point the way the real elbows did (p95 / worst)     2 / 12 deg (limit 15 / 35)
+  [ok] knees point the way the real knees did (p95 / worst)       4 / 13 deg (limit 15 / 35)
+  [ok] hands go where the real hands went (p95)                   4 deg (limit 12)
+  [ok] no elbow or knee ever bends backwards                      0 frames
+  [ok] no joint turns faster than a human joint can               0 joint-frames
+  [ok] every joint inside its range                               0 joint-frames over 3 deg
+  [ok] no skin weight leaks between limbs (skin_rules.py)         0 pieces []
+  [ok] the mesh never stretches into a spike (edge >3x and >6 cm) worst 0 edges, frames [] (limit 0)
+  [ok] feet never sink into the floor                             -0.0 cm at frame 4 (limit 1.5)
+
+Info: Saved as "pipe_kicks6.blend"
+PIPE SAVED kicks6 QA PASS
+Blender 5.2.0 LTS (hash fbe6228777e7 built 2026-07-14 01:35:40)
+
+Blender quit

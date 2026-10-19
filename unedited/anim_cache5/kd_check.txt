@@ -1,0 +1,169 @@
+SPIKES 644
+SPIKE (40, 'spine', 16.4)
+SPIKE (40, 'chest', 15.3)
+SPIKE (40, 'neck', 16.3)
+SPIKE (40, 'head', 18.3)
+SPIKE (40, 'clavicle.L', 15.6)
+SPIKE (40, 'clavicle.R', 14.4)
+SPIKE (41, 'pelvis', 20.6)
+SPIKE (41, 'spine', 23.4)
+SPIKE (41, 'chest', 21.7)
+SPIKE (41, 'neck', 23.1)
+SPIKE (41, 'head', 24.5)
+SPIKE (41, 'clavicle.L', 21.9)
+SPIKE (41, 'upperarm.L', 19.1)
+SPIKE (41, 'forearm.L', 17.6)
+SPIKE (41, 'clavicle.R', 20.7)
+SPIKE (41, 'forearm.R', 16.3)
+SPIKE (41, 'foot.R', 18.4)
+SPIKE (41, 'toe.R', 18.4)
+SPIKE (41, 'ik_foot.R', 18.4)
+SPIKE (42, 'pelvis', 26.7)
+SPIKE (42, 'spine', 29.8)
+SPIKE (42, 'chest', 27.3)
+SPIKE (42, 'neck', 29.5)
+SPIKE (42, 'head', 29.6)
+SPIKE (42, 'clavicle.L', 27.7)
+SPIKE (42, 'upperarm.L', 25.8)
+SPIKE (42, 'forearm.L', 24.9)
+SPIKE (42, 'hand.L', 20.8)
+SPIKE (42, 'clavicle.R', 26.3)
+SPIKE (42, 'forearm.R', 19.4)
+SPIKE (42, 'foot.R', 336.7)
+SPIKE (42, 'toe.R', 23.3)
+SPIKE (42, 'ik_foot.R', 336.7)
+SPIKE (43, 'pelvis', 29.4)
+SPIKE (43, 'spine', 32.7)
+SPIKE (43, 'chest', 29.4)
+SPIKE (43, 'neck', 32.6)
+SPIKE (43, 'head', 31.6)
+SPIKE (43, 'clavicle.L', 30.4)
+SPIKE (43, 'upperarm.L', 29.9)
+SPIKE (43, 'forearm.L', 30.2)
+SPIKE (43, 'hand.L', 29.0)
+SPIKE (43, 'clavicle.R', 28.5)
+SPIKE (43, 'upperarm.R', 17.6)
+SPIKE (43, 'forearm.R', 19.1)
+SPIKE (43, 'foot.R', 25.7)
+SPIKE (43, 'toe.R', 334.3)
+SPIKE (43, 'ik_foot.R', 25.7)
+SPIKE (44, 'pelvis', 26.9)
+SPIKE (44, 'spine', 30.1)
+SPIKE (44, 'chest', 26.6)
+SPIKE (44, 'neck', 30.6)
+SPIKE (44, 'head', 29.1)
+SPIKE (44, 'clavicle.L', 28.1)
+SPIKE (44, 'upperarm.L', 29.1)
+SPIKE (44, 'forearm.L', 30.9)
+SPIKE (44, 'hand.L', 32.3)
+SPIKE (44, 'clavicle.R', 25.6)
+SPIKE (44, 'upperarm.R', 18.8)
+SPIKE (44, 'forearm.R', 15.1)
+SPIKE (44, 'thigh.R', 37.3)
+SPIKE (44, 'shin.R', 47.2)
+SPIKE (44, 'foot.R', 24.2)
+SPIKE (44, 'toe.R', 24.2)
+SPIKE (44, 'ik_foot.R', 24.2)
+SPIKE (45, 'pelvis', 20.9)
+SPIKE (45, 'spine', 23.8)
+SPIKE (45, 'chest', 20.4)
+SPIKE (45, 'neck', 24.9)
+SPIKE (45, 'head', 23.8)
+FOOT 8 L 0.22 23.54 13.74 toe z 14.18
+FOOT 8 R -0.22 23.55 13.86 toe z 14.29
+FOOT 16 L 0.22 20.89 12.27 toe z 12.72
+FOOT 16 R -0.22 20.91 12.39 toe z 12.83
+FOOT 24 L 0.23 18.13 9.74 toe z 10.18
+FOOT 24 R -0.22 18.15 9.85 toe z 10.29
+FOOT 32 L 0.23 15.39 6.13 toe z 6.58
+FOOT 32 R -0.23 15.41 6.24 toe z 6.67
+FOOT 40 L 0.25 12.86 1.83 toe z 2.22
+FOOT 40 R -0.25 12.98 1.89 toe z 2.2
+FOOT 48 L 0.29 11.75 0.21 toe z 0.2
+FOOT 48 R -0.29 12.25 0.66 toe z 0.13
+FOOT 56 L 0.29 11.75 0.21 toe z 0.14
+FOOT 56 R -0.29 12.25 0.66 toe z 0.15
+FOOT 64 L 0.29 11.76 0.21 toe z 0.16
+FOOT 64 R -0.29 12.24 0.65 toe z 0.13
+FOOT 72 L 0.29 11.78 0.21 toe z 0.27
+FOOT 72 R -0.29 12.22 0.58 toe z 0.09
+FOOT 80 L 0.29 11.8 0.21 toe z 0.43
+FOOT 80 R -0.29 12.19 0.49 toe z 0.07
+FOOT 88 L 0.29 11.82 0.21 toe z 0.59
+FOOT 88 R -0.29 12.17 0.37 toe z 0.13
+FOOT 96 L 0.29 11.82 0.24 toe z 0.7
+FOOT 96 R -0.29 12.17 0.26 toe z 0.35
+FOOT 104 L 0.29 11.74 0.25 toe z 0.72
+FOOT 104 R -0.29 12.23 0.2 toe z 0.4
+FOOT 112 L 0.29 11.5 0.28 toe z 0.74
+FOOT 112 R -0.29 12.36 0.21 toe z 0.45
+FOOT 120 L 0.29 11.47 0.21 toe z 0.6
+FOOT 120 R -0.29 12.09 0.33 toe z 0.37
+FOOT 128 L 0.29 11.47 0.21 toe z 0.41
+FOOT 128 R -0.29 11.11 0.39 toe z 0.57
+FOOT 136 L 0.29 11.44 0.29 toe z 0.47
+FOOT 136 R -0.29 10.58 0.21 toe z 0.64
+FOOT 144 L 0.29 10.98 0.38 toe z 0.47
+FOOT 144 R -0.29 10.58 0.21 toe z 0.52
+FOOT 152 L 0.29 9.99 0.34 toe z 0.63
+FOOT 152 R -0.29 10.58 0.21 toe z 0.43
+FOOT 160 L 0.29 9.69 0.23 toe z 0.71
+FOOT 160 R -0.29 10.56 0.25 toe z 0.52
+FOOT 168 L 0.29 9.68 0.21 toe z 0.48
+FOOT 168 R -0.29 9.84 0.41 toe z 0.29
+FOOT 176 L 0.29 9.68 0.24 toe z 0.4
+FOOT 176 R -0.29 8.91 0.28 toe z 0.69
+FOOT 184 L 0.29 9.57 0.32 toe z 0.48
+FOOT 184 R -0.29 8.79 0.21 toe z 0.56
+FOOT 192 L 0.29 8.69 0.41 toe z 0.56
+FOOT 192 R -0.29 8.79 0.21 toe z 0.43
+FOOT 200 L 0.29 7.94 0.28 toe z 0.74
+FOOT 200 R -0.29 8.79 0.21 toe z 0.45
+FOOT 208 L 0.29 7.9 0.21 toe z 0.6
+FOOT 208 R -0.29 8.53 0.33 toe z 0.37
+FOOT 216 L 0.29 7.9 0.21 toe z 0.41
+FOOT 216 R -0.29 7.54 0.39 toe z 0.57
+FOOT 224 L 0.29 7.87 0.29 toe z 0.47
+FOOT 224 R -0.29 7.01 0.21 toe z 0.64
+FOOT 232 L 0.29 7.42 0.38 toe z 0.47
+FOOT 232 R -0.29 7.01 0.21 toe z 0.52
+FOOT 240 L 0.29 6.43 0.34 toe z 0.63
+FOOT 240 R -0.29 7.01 0.21 toe z 0.43
+FOOT 248 L 0.29 6.13 0.23 toe z 0.71
+FOOT 248 R -0.29 7.0 0.25 toe z 0.52
+FOOT 256 L 0.29 6.12 0.21 toe z 0.48
+FOOT 256 R -0.29 6.28 0.41 toe z 0.29
+FOOT 264 L 0.29 6.12 0.24 toe z 0.4
+FOOT 264 R -0.29 5.35 0.28 toe z 0.69
+FOOT 272 L 0.29 6.01 0.32 toe z 0.48
+FOOT 272 R -0.29 5.23 0.21 toe z 0.56
+FOOT 280 L 0.29 5.13 0.41 toe z 0.56
+FOOT 280 R -0.29 5.23 0.21 toe z 0.43
+FOOT 288 L 0.29 5.03 0.35 toe z 0.51
+FOOT 288 R -0.29 5.26 0.23 toe z 0.07
+FOOT 296 L 0.29 4.99 0.3 toe z 0.45
+FOOT 296 R -0.29 5.31 0.26 toe z -0.16
+FOOT 304 L 0.29 4.99 0.25 toe z 0.38
+FOOT 304 R -0.29 5.37 0.3 toe z -0.2
+FOOT 312 L 0.29 4.99 0.22 toe z 0.29
+FOOT 312 R -0.29 5.41 0.33 toe z -0.14
+FOOT 320 L 0.29 4.97 0.21 toe z 0.17
+FOOT 320 R -0.29 5.43 0.32 toe z -0.14
+FOOT 328 L 0.29 4.94 0.21 toe z -0.08
+FOOT 328 R -0.29 5.47 0.22 toe z -0.18
+FOOT 336 L 0.29 4.9 0.23 toe z -0.22
+FOOT 336 R -0.29 5.51 0.13 toe z -0.16
+FOOT 344 L 0.29 4.8 0.38 toe z -0.04
+FOOT 344 R -0.29 5.47 0.1 toe z -0.26
+FOOT 352 L 0.23 3.7 1.07 toe z 0.84
+FOOT 352 R -0.24 4.49 -0.0 toe z -0.28
+FOOT 360 L 0.22 3.51 1.16 toe z 0.85
+FOOT 360 R -0.24 4.31 0.01 toe z -0.15
+FOOT 368 L 0.22 3.51 1.16 toe z 0.86
+FOOT 368 R -0.24 4.31 0.01 toe z -0.13
+FOOT 376 L 0.22 3.51 1.16 toe z 0.87
+FOOT 376 R -0.24 4.31 0.01 toe z -0.12
+FOOT 384 L 0.22 3.51 1.16 toe z 0.89
+FOOT 384 R -0.24 4.31 0.01 toe z -0.12
+FOOT 392 L 0.22 3.51 1.16 toe z 0.9
+FOOT 392 R -0.24 4.31 0.01 toe z -0.11

@@ -1,0 +1,9 @@
+00:02.250  blend            | Read blend: "C:\ai\unedited\fight_v01.blend"
+C:\ai\unedited\mc_test.py:60: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  m = bpy.data.materials.new(name); m.use_nodes = True
+POLES {'shin.L': (-75, 0.9), 'shin.R': (-105, 0.9), 'forearm.L': (60, 7.3), 'forearm.R': (120, 7.3)}
+Info: Saved as "mc_test_relic_kick_front_a.blend"
+MC BAKED 104 {'kick_front_a': (4, 40, 20), 'kick_front_b': (54, 40, 20)}
+Blender 5.2.0 LTS (hash fbe6228777e7 built 2026-07-14 01:35:40)
+
+Blender quit

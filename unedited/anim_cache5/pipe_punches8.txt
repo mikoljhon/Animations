@@ -1,0 +1,28 @@
+00:02.453  blend            | Read blend: "C:\ai\unedited\fight_v06.blend"
+GUARD frames 420, frames where a joint had to be pulled back 131, worst pull-back 21 deg, joint turns slowed to a human speed 0 times
+  foot.L       pulled back on  80 frames, worst  21 deg
+  foot.R       pulled back on  82 frames, worst  13 deg
+  upperarm.R   pulled back on  12 frames, worst   3 deg
+  upperarm.L   pulled back on  12 frames, worst   3 deg
+QA PASS  (punch_144_20_a, punch_144_13_a, punch_143_23_a, punch_14_03_a, punch_13_17_a, guard_76_04, frames 4-378)
+  [ok] Relic: no elbow/knee ever points the impossible way (any frame) 0 joint-frames, worst 54 deg off natural []
+  [ok] the reference capture itself is anatomically possible      0 joint-frames, worst 48 deg off natural []
+  [ok] fists never inside Relic's own body (any frame)            0 fist-frames, closest 2.9 cm; 122 fist-frames moved out of his armour []
+  [ok] knees bend as much as the real knees (p95 / worst)         8 / 19 deg (limit 10 / 25)
+  [ok] elbows bend as much as the real elbows (p95 / worst)       6 / 13 deg (limit 20 / 45)
+  [ok] the body faces, twists and leans like the real one (p95 / worst) 10 / 15 deg (limit 12 / 25)
+  [ok] elbows point the way the real elbows did (p95 / worst)     4 / 34 deg (limit 15 / 35)
+  [ok] knees point the way the real knees did (p95 / worst)       3 / 5 deg (limit 15 / 35)
+  [ok] hands go where the real hands went (p95)                   7 deg (limit 12)
+  [ok] no elbow or knee ever bends backwards                      0 frames
+  [ok] no joint turns faster than a human joint can               0 joint-frames
+  [ok] every joint inside its range                               0 joint-frames over 3 deg
+  [ok] no skin weight leaks between limbs (skin_rules.py)         0 pieces []
+  [ok] the mesh never stretches into a spike (edge >3x and >6 cm) worst 0 edges, frames [] (limit 0)
+  [ok] feet never sink into the floor                             0.0 cm at frame 76 (limit 1.5)
+
+Info: Saved as "pipe_punches8.blend"
+PIPE SAVED punches8 QA PASS
+Blender 5.2.0 LTS (hash fbe6228777e7 built 2026-07-14 01:35:40)
+
+Blender quit

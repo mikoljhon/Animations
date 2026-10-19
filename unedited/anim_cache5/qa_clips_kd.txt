@@ -1,0 +1,21 @@
+GATE OPEN after 0 s
+JOB EXIT 0 after 12 s, paused 0 times (0 s)
+kd_swing_14_02 PASS
+GATE OPEN after 0 s
+JOB EXIT 0 after 11 s, paused 0 times (0 s)
+kd_punch_L_02_05 PASS
+GATE OPEN after 0 s
+JOB EXIT 0 after 20 s, paused 0 times (0 s)
+kd_lift_137_40 PASS
+GATE OPEN after 0 s
+JOB EXIT 0 after 14 s, paused 0 times (0 s)
+kd_punch_L_14_03 PASS
+GATE OPEN after 0 s
+JOB EXIT 0 after 14 s, paused 0 times (0 s)
+kd_swing_14_01 FAIL
+       [XX] the crusher and the fist never cut into its own hull (any frame) 1 frames [(36, 'crusher', 418)]; 87 hand-frames moved out of the hull
+       [XX] elbows bend as much as the real elbows (p95 / worst)       19 / 95 deg (limit 20 / 45)
+GATE OPEN after 0 s
+JOB EXIT 0 after 12 s, paused 0 times (0 s)
+kd_kneel_23_03 FAIL
+       [XX] elbows bend as much as the real elbows (p95 / worst)       27 / 42 deg (limit 20 / 45)

@@ -1,0 +1,24 @@
+00:08.390  render           | Saved: 'C:\ai\unedited\renders\killdroid_v02_front.png'
+00:10.172  render           | Saved: 'C:\ai\unedited\renders\killdroid_v02_q3.png'
+00:11.625  render           | Saved: 'C:\ai\unedited\renders\killdroid_v02_side.png'
+00:13.390  render           | Saved: 'C:\ai\unedited\renders\killdroid_v02_back.png'
+00:14.797  render           | Saved: 'C:\ai\unedited\renders\killdroid_v02_head.png'
+00:16.219  render           | Saved: 'C:\ai\unedited\renders\killdroid_v02_crusher.png'
+00:18.547  render           | Saved: 'C:\ai\unedited\renders\killdroid_v02_vsref_render.png'
+BUILT {'bones': 28, 'objects': 175, 'meshes': 144, 'verts': 80392, 'rams': 12, 'lamps': 6, 'height_m': 2.907, 'floor_m': -0.0, 'width_m': 2.343}
+Info: Saved as "killdroid_v02.blend"
+SAVED C:\ai\unedited\killdroid_v02.blend
+RENDERED C:\ai\unedited\renders\killdroid_v02_front.png
+RENDERED C:\ai\unedited\renders\killdroid_v02_q3.png
+RENDERED C:\ai\unedited\renders\killdroid_v02_side.png
+RENDERED C:\ai\unedited\renders\killdroid_v02_back.png
+RENDERED C:\ai\unedited\renders\killdroid_v02_head.png
+RENDERED C:\ai\unedited\renders\killdroid_v02_crusher.png
+RENDERED C:\ai\unedited\renders\killdroid_v02_vsref_render.png
+RENDERED ['C:\\ai\\unedited\\renders\\killdroid_v02_front.png', 'C:\\ai\\unedited\\renders\\killdroid_v02_q3.png', 'C:\\ai\\unedited\\renders\\killdroid_v02_side.png', 'C:\\ai\\unedited\\renders\\killdroid_v02_back.png', 'C:\\ai\\unedited\\renders\\killdroid_v02_head.png', 'C:\\ai\\unedited\\renders\\killdroid_v02_crusher.png', 'C:\\ai\\unedited\\renders\\killdroid_v02_vsref_render.png']
+Info: Saved as "killdroid_v02.blend"
+SAVED C:\ai\unedited\killdroid_v02.blend
+DONE final A
+Blender 5.2.0 LTS (hash fbe6228777e7 built 2026-07-14 01:35:40)
+
+Blender quit
